@@ -1,307 +1,1169 @@
 Mode,Category,Subcategory,Note,Income/Expense,Amount(Pounds),date
-Cash,Apparel,Shoes,Nike,Expense,368.0,2018-08-19
-Cash,Apparel,Clothes,Pants,Expense,18.4,2018-08-19
-Saving Bank account 1,subscription,Netflix,1 month subscription,Expense,1.8308,2018-08-19
-Saving Bank account 1,Small Cap fund 2,,,Transfer-Out,46.0,2018-08-13
-Cash,Apparel,Shoes,Nike,Expense,460.0,2018-08-18
-Saving Bank account 1,Small cap fund 1,,,Transfer-Out,46.0,2018-08-13
-Credit Card,subscription,Mobile Service Provider,Data booster pack,Expense,6.1364,2018-08-12
-Saving Bank account 1,Food,Lunch,Home Food Delivery,Expense,5.9799999999999995,2018-08-11
-Cash,Apparel,Clothes,Pants,Expense,18.4,2018-08-11
-Saving Bank account 1,Other,,From Family,Income,32.2,2018-08-11
-Cash,Food,Milk,Half lit  milk,Expense,0.3312,2018-08-11
-Cash,Food,Milk,Half lit  milk,Expense,0.3312,2018-08-10
-Cash,Family,Pocket money,,Expense,0.368,2018-08-08
-Cash,Apparel,Clothes,Skirt,Expense,9.2,2018-08-08
-Cash,Apparel,Shoes,Nike,Expense,368.0,2018-08-08
-Cash,Food,Milk,Half lit  milk,Expense,0.3404,2018-08-07
-Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2018-08-07
-Cash,Food,snacks,Amul butter,Expense,0.506,2018-08-06
-Cash,Apparel,Laundry,11 clothes ironing,Expense,0.7084,2018-08-05
-Cash,Food,snacks,Chinese Bhel,Expense,0.276,2018-08-05
-Cash,Food,snacks,Shev Puri,Expense,0.368,2018-08-05
-Cash,Apparel,Shoes,Nike,Expense,276.0,2018-08-05
-Cash,Food,snacks,2 kachori,Expense,0.2208,2018-08-05
-Saving Bank account 1,Food,Milk,Half lit  milk,Expense,0.3312,2018-08-05
-Saving Bank account 1,Food,breakfast,Bread,Expense,0.1656,2018-08-05
-Cash,Family,Pocket money,,Expense,18.4,2018-08-03
-Saving Bank account 1,Public Provident Fund,,,Transfer-Out,115.0,2018-08-01
-Equity Mutual Fund B,Saving Bank account 1,,,Transfer-Out,18.4,2018-08-01
-Cash,Apparel,Clothes,Pants,Expense,13.799999999999999,2018-08-31
-Cash,Apparel,Clothes,Pants,Expense,13.799999999999999,2018-08-28
-Saving Bank account 1,Life Insurance,,,Transfer-Out,101.5956,2018-08-22
-Saving Bank account 1,subscription,Netflix,1 month subscription,Expense,1.8308,2018-08-19
-Cash,Apparel,Clothes,Pants,Expense,18.4,2018-08-17
-Saving Bank account 1,Small Cap fund 2,,,Transfer-Out,46.0,2018-08-13
-Saving Bank account 1,Small cap fund 1,,,Transfer-Out,46.0,2018-08-13
-Cash,Food,snacks,8 kachori,Expense,0.8832,2018-08-11
-Cash,Family,Pocket money,,Expense,0.322,2018-08-10
-Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2018-08-07
-Cash,Beauty,grooming,hair cut,Expense,0.9199999999999999,2018-08-06
-Cash,Family,Pocket money,,Expense,0.9199999999999999,2018-08-05
-Cash,Food,Tea,cutting chai,Expense,0.092,2018-08-05
-Credit Card,Health,Health,eyewear Glasses payment remaining,Expense,39.56,2018-08-05
-Credit Card,Apparel,Clothing,For Family,Expense,31.372,2018-08-05
-Cash,Transportation,Train,Place 0 to Place 4 return,Expense,0.184,2018-08-05
-Cash,Transportation,auto,Current Residence to Place 0,Expense,0.138,2018-08-05
-Credit Card,Family,clothes,Bows,Expense,3.6616,2018-08-05
-Saving Bank account 1,Other,,From Family,Income,0.9199999999999999,2018-08-03
-Cash,Family,Pocket money,,Expense,18.4,2018-08-03
-Saving Bank account 1,Dividend earned on Shares,,Redington Stocks,Income,1.656,2018-08-03
-Cash,Household,Kirana,Supermart,Expense,0.1656,2018-08-02
-Cash,Food,flour mill,M D sure 4kg atta,Expense,1.9872,2018-08-02
-Cash,Health,Health,eyewear Glasses advance,Expense,9.2,2018-08-02
-Cash,Family,Pocket money,,Expense,0.368,2018-08-01
-Saving Bank account 1,Public Provident Fund,,,Transfer-Out,115.0,2018-08-01
-Equity Mutual Fund B,Saving Bank account 1,,,Transfer-Out,18.4,2018-08-01
-Saving Bank account 1,Small Cap fund 2,,,Transfer-Out,46.0,2018-08-13
-Saving Bank account 1,Small cap fund 1,,,Transfer-Out,46.0,2018-08-13
-Cash,Food,Eggs,6 eggs,Expense,0.322,2018-08-12
-Cash,Food,Bread,2 bread packets,Expense,0.5244,2018-08-11
-Saving Bank account 1,Dividend earned on Shares,,Tata Steel Stocks,Income,1.656,2018-08-10
-Cash,Transportation,Petrol,3.4 Lit Petrol,Expense,3.312,2018-08-09
-Cash,Food,Biscuits,Toast packet,Expense,0.184,2018-08-09
-Cash,Food,Grocery,Shev bhaji sev pav kg,Expense,0.552,2018-08-09
-Cash,Transportation,Taxi,Ola cab - eye institute to Current Residence CHS,Expense,1.702,2018-08-08
-Saving Bank account 1,Food,Tea,3 cutting chai,Expense,0.276,2018-08-08
-Credit Card,Health,Medicine,eye drop,Expense,1.4076,2018-08-08
-Cash,Health,Hospital,Hospital consultation,Expense,4.6,2018-08-08
-Cash,Transportation,Taxi,Ola cab - Current Residence CHS to eye institute,Expense,1.196,2018-08-08
-Saving Bank account 1,Transportation,Taxi,To and Fro Cab Fare Contribution,Expense,6.21,2018-08-08
-Cash,Transportation,Train,Place 4 to Place 0,Expense,0.092,2018-08-07
-Credit Card,Food,Lunch,At restaurant,Expense,0.0184,2018-08-07
-Saving Bank account 1,subscription,Mahanagar Gas,,Expense,1.8032,2018-08-07
-Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2018-08-07
-Cash,Food,Dinner,At restaurant,Expense,6.992,2018-08-06
-Cash,Transportation,Taxi,Park Inn Goa,Expense,0.9199999999999999,2018-08-06
-Cash,Transportation,auto,Terminal 1 to Terminal 2,Expense,0.7636,2018-08-05
-Cash,Food,Tea,cutting chai,Expense,0.0644,2018-08-05
-Cash,Transportation,auto,Current Residence to Place 0,Expense,0.138,2018-08-05
-Cash,Transportation,Train,Place 0 to Place P,Expense,0.184,2018-08-05
-Cash,Health,Hospital,Doctor Fees,Expense,0.9199999999999999,2018-08-04
-Cash,Beauty,grooming,Shaving,Expense,0.45999999999999996,2018-08-04
-Cash,Family,Pocket money,,Expense,3.2199999999999998,2018-08-04
-Saving Bank account 1,Health,Lab Tests,2 Thyroid (1000) + cholesterol (220) + uric acid (220),Expense,13.248,2018-08-04
-Cash,maid,,,Expense,4.6,2018-08-03
-Saving Bank account 1,Food,Milk,Half lit  milk,Expense,0.3312,2018-08-03
-Credit Card,subscription,Tata Sky,Current Residence - Tata Play recharge,Expense,1.4168,2018-08-03
-Saving Bank account 1,Dividend earned on Shares,,Infosys Stocks,Income,0.483,2018-08-03
-Equity Mutual Fund B,Saving Bank account 1,,,Transfer-Out,18.4,2018-08-03
-Saving Bank account 1,Household,Kirana,Supermart,Expense,14.674,2018-08-02
-Cash,Transportation,auto,Place 1 bridge to Current Residence 2 seats,Expense,0.45999999999999996,2018-08-02
-Cash,Transportation,Bus,2 Place 6 Stand to MS,Expense,0.184,2018-08-02
-Credit Card,Household,home decor,Face towels + shampoo,Expense,5.7592,2018-08-02
-Cash,Transportation,Bus,2 Place 1 to  mall,Expense,0.2392,2018-08-02
-Cash,Transportation,auto,Current Residence to Place 1 bus stop highway,Expense,0.368,2018-08-02
-Debit Card,Culture,Movie,2 PVR ,Expense,4.2412,2018-08-01
-Credit Card,Transportation,Travels,2 Place 2 to Place 1 - Shree Sharma Travels,Expense,17.387999999999998,2018-08-01
-Saving Bank account 1,Food,snacks,Vadapav,Expense,0.138,2018-08-01
-Saving Bank account 1,Apparel,Clothing,undergarments pair of Jockey,Expense,3.956,2018-08-01
-Cash,Apparel,Laundry,clothes ironing,Expense,0.9016,2018-08-01
-Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.6624,2018-08-01
-Saving Bank account 1,Public Provident Fund,,,Transfer-Out,115.0,2018-08-01
-Saving Bank account 1,Money transfer,Home,,Expense,92.0,2018-08-01
-Saving Bank account 1,Small Cap fund 2,,,Transfer-Out,46.0,2018-08-13
-Saving Bank account 1,Small cap fund 1,,,Transfer-Out,46.0,2018-08-13
-Cash,Food,Eggs,12 eggs,Expense,0.7727999999999999,2018-08-11
-Credit Card,Self-development,,Marathon,Expense,12.9444,2018-08-11
-Saving Bank account 1,Household,home decor,Sofa covers,Expense,27.599999999999998,2018-08-10
-Credit Card,subscription,Mobile Service Provider,Data booster pack,Expense,6.1364,2018-08-09
-Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2018-08-07
-Saving Bank account 1,Public Provident Fund,,,Transfer-Out,115.0,2018-08-01
-Equity Mutual Fund B,Saving Bank account 1,,,Transfer-Out,18.4,2018-08-01
-Saving Bank account 1,Life Insurance,,,Transfer-Out,101.5956,2018-08-22
-Saving Bank account 1,Small Cap fund 2,,,Transfer-Out,46.0,2018-08-13
-Saving Bank account 1,Small cap fund 1,,,Transfer-Out,46.0,2018-08-13
-Credit Card,Food,Dinner,Domino's Pizza,Expense,4.0203999999999995,2018-08-12
-Cash,Food,Lunch,Catering Service,Expense,0.644,2018-08-12
-Cash,Food,snacks,4 kachori,Expense,0.4416,2018-08-12
-Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.6624,2018-08-12
-Cash,Food,Rajgira ladu,1 packet,Expense,0.184,2018-08-11
-Saving Bank account 1,Food,Ice cream,2 Faluda,Expense,0.736,2018-08-10
-Saving Bank account 1,Other,,NEFT from Big Share Services,Income,8.7124,2018-08-10
-Cash,subscription,Newspaper,Mata + TOI + ET,Expense,0.1104,2018-08-09
-Cash,Food,Biscuits,Toast packet,Expense,0.414,2018-08-09
-Cash,Food,Milk,Half lit  milk,Expense,0.3312,2018-08-09
-Credit Card,subscription,Netflix,,Expense,1.8308,2018-08-09
-Cash,Food,Sweets,Kaju katli half kg,Expense,4.6,2018-08-08
-Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.6624,2018-08-08
-Cash,Beauty,grooming,Shaving,Expense,0.45999999999999996,2018-08-08
-Credit Card,Household,Toiletries,Handwash container2 + window cleaner,Expense,9.9912,2018-08-07
-Cash,Transportation,Bike,Mall parking,Expense,0.184,2018-08-07
-Saving Bank account 1,subscription,Mahanagar Gas,,Expense,4.7379999999999995,2018-08-07
-Saving Bank account 1,Food,Lunch,Home Food Delivery,Expense,3.956,2018-08-07
-Cash,Food,Milk,milk 1lit ,Expense,0.6624,2018-08-07
-Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2018-08-07
-Saving Bank account 1,Other,,From Family,Income,27.599999999999998,2018-08-06
-Cash,Family,Pocket money,,Expense,5.52,2018-08-05
-Cash,Household,Kirana,Supermart,Expense,0.3404,2018-08-04
-Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.6624,2018-08-04
-Saving Bank account 1,Food,snacks,Bhaji + vadapav,Expense,0.368,2018-08-03
-Saving Bank account 1,Food,fruits,Mango 1.5 kg,Expense,2.576,2018-08-02
-Cash,Food,Milk,milk 1lit ,Expense,0.6624,2018-08-01
-Saving Bank account 1,Health,Medicine,ITone eye drops,Expense,0.3956,2018-08-01
-Saving Bank account 1,Health,Medicine,Refresh Tears Drop,Expense,1.1224,2018-08-01
-Cash,Family,Pocket money,,Expense,2.392,2018-08-01
-Saving Bank account 1,Public Provident Fund,,,Transfer-Out,115.0,2018-08-01
-Equity Mutual Fund B,Saving Bank account 1,,,Transfer-Out,18.4,2018-08-01
-Saving Bank account 1,Money transfer,Home,,Expense,92.0,2018-08-01
-Saving Bank account 1,Small Cap fund 2,,,Transfer-Out,46.0,2018-08-13
-Saving Bank account 1,Small cap fund 1,,,Transfer-Out,46.0,2018-08-13
-Credit Card,subscription,Netflix,,Expense,1.8308,2018-08-12
-Cash,Household,Kirana,,Expense,1.0304,2018-08-12
-Cash,Food,snacks,Pattice,Expense,0.184,2018-08-12
-Cash,Food,Lunch,Catering Service,Expense,1.196,2018-08-12
-Cash,Food,breakfast,Bread,Expense,0.1656,2018-08-10
-Cash,Food,Lunch,Catering Service,Expense,0.644,2018-08-10
-Saving Bank account 1,Gift,,farewell contribution,Expense,2.3,2018-08-10
-Cash,Food,Grocery,Ginger,Expense,0.092,2018-08-09
-Cash,Food,Milk,milk 1lit ,Expense,0.6624,2018-08-09
-Credit Card,Household,Kirana,Supermart,Expense,17.0844,2018-08-07
-Cash,Household,Kirana,Pav kg chana dal,Expense,0.2208,2018-08-07
-Cash,Food,Milk,Half lit  milk,Expense,0.3312,2018-08-07
-Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2018-08-07
-Saving Bank account 1,Money transfer,Home,,Expense,225.4,2018-08-06
-Cash,Household,Kirana,Idli pith 1kg,Expense,0.3496,2018-08-05
-Cash,Food,Eggs,6 eggs,Expense,0.3312,2018-08-05
-Cash,Food,Milk,milk 1lit ,Expense,0.6624,2018-08-05
-Cash,Food,Lunch,Catering Service,Expense,1.196,2018-08-05
-Saving Bank account 1,Public Provident Fund,,,Transfer-Out,115.0,2018-08-03
-Equity Mutual Fund B,Saving Bank account 1,,,Transfer-Out,18.4,2018-08-03
-Cash,Transportation,Bike,Mall parking,Expense,0.184,2018-08-02
-Credit Card,Household,Hardware,Window cleaner,Expense,1.3708,2018-08-02
-Cash,Food,Grocery,Pav kg Lahsoon,Expense,0.2208,2018-08-02
-Cash,Food,curd,Dahi 2 packets,Expense,0.184,2018-08-02
-Cash,Food,Onions,onion 2 kg,Expense,0.3312,2018-08-02
-Cash,maid,,,Expense,18.4,2018-08-02
-Saving Bank account 2,Interest,,interest paid,Income,3.174,2018-08-01
-Saving Bank account 1,Other,,ATM charge,Expense,0.05428,2018-08-01
-Saving Bank account 1,Other,,ATM charge,Expense,0.227976,2018-08-01
-Saving Bank account 2,Interest,,interest paid,Income,3.1753799999999996,2018-08-01
-Cash,Food,Milk,milk 1lit ,Expense,0.6624,2018-08-01
-Saving Bank account 1,Money transfer,Home,,Expense,92.05427999999999,2018-08-01
-Saving Bank account 1,Small Cap fund 2,,,Transfer-Out,46.0,2018-08-13
-Saving Bank account 1,Small cap fund 1,,,Transfer-Out,46.0,2018-08-13
-Saving Bank account 1,Transportation,train,2 Place 3 to Place 2 : Sevagram express 3AC,Expense,11.8956,2018-08-12
-Cash,Household,Hardware,Mosquito Racket,Expense,2.76,2018-08-10
-Cash,Health,Health,All out refill,Expense,0.7084,2018-08-10
-Cash,Food,Milk,1 lit ,Expense,0.6624,2018-08-10
-Cash,Food,Milk,Half lit  milk,Expense,0.3312,2018-08-10
-Saving Bank account 1,Apparel,Laundry,clothes ironing,Expense,0.8371999999999999,2018-08-08
-Cash,Food,Bread,Flatbread 12 pcs,Expense,0.368,2018-08-08
-Cash,Petty cash,,From Family,Income,4.6,2018-08-08
-Saving Bank account 1,subscription,Mahanagar Gas,,Expense,4.968,2018-08-08
-Cash,Food,Eggs,6 eggs,Expense,0.3312,2018-08-08
-Cash,Food,Milk,Half lit  milk,Expense,0.3312,2018-08-08
-Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2018-08-08
-Saving Bank account 1,Festivals,Holi,Holi Tip to cleaner,Expense,0.184,2018-08-07
-Saving Bank account 1,Food,snacks,2 Vadapav,Expense,0.276,2018-08-07
-Cash,Health,Medicine,Thyroid Tablets,Expense,1.5824,2018-08-06
-Cash,Health,Medicine,5 Meftal spas,Expense,0.2024,2018-08-06
-Saving Bank account 1,Education,Stationary,Xerox,Expense,0.0368,2018-08-06
-Saving Bank account 1,Petty cash,,From Family,Income,32.2,2018-08-06
-Cash,Food,Milk,Half lit  milk,Expense,0.3312,2018-08-06
-Credit Card,Documents,Courier,Aadhar PUC card delivery,Expense,0.45999999999999996,2018-08-06
-Cash,Family,Pocket money,,Expense,0.45999999999999996,2018-08-06
-Cash,Food,Ice cream,chocobar,Expense,0.184,2018-08-05
-Saving Bank account 1,Food,flour mill,M D sure 3kg atta,Expense,1.4904,2018-08-05
-Credit Card,Household,Kirana,Supermart,Expense,12.484399999999999,2018-08-05
-Credit Card,Household,Kirana,Smart point,Expense,8.9424,2018-08-05
-Saving Bank account 1,Other,,blanket sewing,Expense,0.092,2018-08-05
-Cash,Family,Pocket money,,Expense,4.14,2018-08-04
-Cash,Food,Lunch,Catering Service,Expense,1.196,2018-08-04
-Saving Bank account 1,Dividend earned on Shares,,ITC Stocks,Income,0.7176,2018-08-03
-Saving Bank account 1,Food,Milk,Half lit  milk,Expense,0.3312,2018-08-03
-Saving Bank account 1,Food,Ice cream,chocobar,Expense,0.138,2018-08-02
-Credit Card,Food,Dinner,Domino's Pizza,Expense,1.7388,2018-08-01
-Cash,Food,Eggs,6 eggs,Expense,0.3312,2018-08-01
-Saving Bank account 1,Public Provident Fund,,,Transfer-Out,92.0,2018-08-01
-Equity Mutual Fund B,Saving Bank account 1,,,Transfer-Out,18.4,2018-08-01
-Saving Bank account 1,Money transfer,Home,,Expense,92.0,2018-08-01
-Saving Bank account 1,Life Insurance,,,Transfer-Out,101.5956,2018-08-22
-Saving Bank account 1,Small Cap fund 2,,,Transfer-Out,46.0,2018-08-13
-Saving Bank account 1,Small cap fund 1,,,Transfer-Out,46.0,2018-08-13
-Saving Bank account 1,Food,Eggs,6 eggs,Expense,0.3312,2018-08-12
-Saving Bank account 1,Food,curd,3 packets,Expense,0.276,2018-08-12
-Cash,Food,flour mill,M D sure 3kg atta,Expense,1.4904,2018-08-12
-Cash,Transportation,auto,2 Place 0 to Current Residence,Expense,0.276,2018-08-11
-Cash,Food,Dinner,pav Bhaji,Expense,2.162,2018-08-11
-Cash,Food,snacks,Vadapav,Expense,0.138,2018-08-11
-Cash,Transportation,Train,Place 0 to Place 3 returns,Expense,0.368,2018-08-11
-Cash,Transportation,auto,Current Residence to Place 0,Expense,0.138,2018-08-11
-Saving Bank account 1,Share Market,,,Transfer-Out,44.39,2018-08-10
-Saving Bank account 1,Food,Milk,1 lit ,Expense,0.6348,2018-08-10
-Saving Bank account 1,Apparel,Laundry,clothes ironing,Expense,0.9016,2018-08-09
-Saving Bank account 1,Food,snacks,Shev Puri,Expense,0.322,2018-08-08
-Saving Bank account 1,Food,Onions,onion 1 kg,Expense,0.22999999999999998,2018-08-08
-Saving Bank account 1,Food,Milk,1 lit ,Expense,0.6348,2018-08-08
-Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2018-08-07
-Credit Card,Culture,Movie,2 PVR Place 6,Expense,2.8704,2018-08-06
-Cash,Family,Pocket money,,Expense,4.6,2018-08-05
-Saving Bank account 1,Food,Grocery,Raw chicken half kg,Expense,2.024,2018-08-05
-Saving Bank account 1,Food,Biscuits,Khari packet,Expense,0.414,2018-08-05
-Saving Bank account 1,Food,Milk,1 packet,Expense,0.6348,2018-08-05
-Credit Card,Food,Dinner,Domino's Pizza,Expense,4.1584,2018-08-04
-Saving Bank account 1,Food,Lunch,Catering Service,Expense,0.45999999999999996,2018-08-04
-Saving Bank account 1,Food,Milk,Half lit  milk,Expense,0.322,2018-08-04
-Saving Bank account 1,Food,Ice cream,chocobar,Expense,0.092,2018-08-03
-Credit Card,Transportation,Travels,Place 2 to Place 1 - Shree Sharma Travels,Expense,8.693999999999999,2018-08-03
-Cash,Gpay Reward,,,Income,0.0552,2018-08-03
-Saving Bank account 1,Food,Lunch,Catering Service,Expense,0.7544,2018-08-02
-Saving Bank account 1,Share Market,,,Transfer-Out,26.0912,2018-08-02
-Saving Bank account 1,Gpay Reward,,,Income,0.0552,2018-08-02
-Cash,Family,Pocket money,,Expense,1.564,2018-08-02
-Saving Bank account 1,Food,fruits,8 bananas,Expense,0.276,2018-08-01
-Saving Bank account 1,Food,vegetables,Half kg tomato,Expense,0.138,2018-08-01
-Saving Bank account 1,Share Market,,,Transfer-Out,460.0,2018-08-01
-Saving Bank account 1,Public Provident Fund,,,Transfer-Out,92.0,2018-08-01
-Equity Mutual Fund B,Saving Bank account 1,,,Transfer-Out,18.4,2018-08-01
-Cash,maid,,,Expense,18.4,2018-08-01
-Saving Bank account 1,Money transfer,Home,,Expense,92.0,2018-08-01
-Saving Bank account 1,Small Cap fund 2,,,Transfer-Out,46.0,2018-08-13
-Saving Bank account 1,Small cap fund 1,,,Transfer-Out,46.0,2018-08-13
-Credit Card,Household,Kirana,Smart point,Expense,2.0792,2018-08-12
-Cash,Health,Lab Tests,Family Thyroid Test,Expense,4.6,2018-08-12
-Saving Bank account 1,Share Market,,,Transfer-Out,184.0,2018-08-12
-Saving Bank account 1,Equity Mutual Fund A,,,Transfer-Out,9.2,2018-08-12
-Saving Bank account 1,Food,Eggs,6 eggs,Expense,0.38639999999999997,2018-08-11
-Saving Bank account 1,Food,Milk,1 lit ,Expense,0.6348,2018-08-11
-Saving Bank account 1,Food,Rajgira ladu,2 packets,Expense,0.368,2018-08-10
-Cash,Food,Bread,Flatbread 12 pcs,Expense,0.31279999999999997,2018-08-09
-Saving Bank account 1,Food,Milk,1 lit ,Expense,0.6348,2018-08-09
-Cash,Food,snacks,Vadapav,Expense,0.184,2018-08-08
-Cash,Other,,Gift from inlaws,Income,18.4,2018-08-08
-Credit Card,Household,Hardware,Sony WI-C100 earphones wireless,Expense,12.8708,2018-08-08
-Saving Bank account 1,Food,flour mill,M D sure 2kg atta,Expense,0.9568,2018-08-08
-Cash,Household,Kirana,Harpik 1L,Expense,1.518,2018-08-08
-Cash,Food,Tea,2 cutting chai,Expense,0.184,2018-08-07
-Cash,Transportation,Train,Place 0 to Place 4 return,Expense,0.184,2018-08-07
-Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2018-08-07
-Saving Bank account 1,subscription,Mahanagar Gas,,Expense,7.452,2018-08-06
-Cash,Household,Kirana,Idli pith 1kg,Expense,0.3496,2018-08-06
-Saving Bank account 1,Household,Appliances,5 litres can Distilled water,Expense,0.9199999999999999,2018-08-06
-Cash,Food,curd,2 cups,Expense,0.184,2018-08-06
-Cash,Food,Milk,1 lit ,Expense,0.6348,2018-08-06
-Equity Mutual Fund C,Maturity amount,,,Income,55.6508,2018-08-05
-Cash,Household,Kirana,Cockroach injection,Expense,2.484,2018-08-04
-Cash,Household,Kirana,Nandadip oil bottle,Expense,1.196,2018-08-04
-Cash,Food,Lunch,Catering Service,Expense,0.644,2018-08-04
-Saving Bank account 1,Small cap fund 1,,,Transfer-Out,46.0,2018-08-04
-Saving Bank account 1,Small Cap fund 2,,,Transfer-Out,46.0,2018-08-04
-Saving Bank account 1,Documents,Updation,Aadhar Address Change,Expense,0.45999999999999996,2018-08-04
-Equity Mutual Fund A,Maturity amount,,SIP Redemption,Income,1043.0592,2018-08-04
-Equity Mutual Fund D,Maturity amount,,SIP Redemption,Income,983.25,2018-08-04
-Credit Card,Food,Dinner,Wok express + Domino's,Expense,6.2652,2018-08-03
-Saving Bank account 1,Transportation,Bike,Two Wheeler Bikedelux booking amount,Expense,9.2,2018-08-03
-Saving Bank account 1,Food,Eggs,6 eggs,Expense,0.368,2018-08-03
-Saving Bank account 1,Food,Milk,1 lit ,Expense,0.6348,2018-08-03
-Credit Card,Household,Kirana,Supermart,Expense,10.488,2018-08-02
-Cash,Health,Medicine,Refresh Tears Drop,Expense,1.4536,2018-08-02
-Credit Card,subscription,Amazon Prime,Amazon pay cashback 1017 + Rs.482,Expense,4.4344,2018-08-01
-Cash,Food,Ice cream,Raspberry dolly,Expense,0.138,2018-08-01
-Credit Card,Household,gadgets,Logitech mouse,Expense,5.5108,2018-08-01
-Cash,Food,Milk,1 lit ,Expense,0.6348,2018-08-01
-Saving Bank account 1,Money transfer,Home,,Expense,276.0,2018-08-01
-Cash,maid,,,Expense,18.4,2018-08-01
-Equity Mutual Fund B,Saving Bank account 1,,,Transfer-Out,18.4,2018-08-01
-Saving Bank account 1,Public Provident Fund,,,Transfer-Out,92.0,2018-08-01
+Cash,Apparel,Shoes,Nike,Expense,368.0,2024-10-19
+Cash,Apparel,Clothes,Pants,Expense,18.4,2024-10-19
+Saving Bank account 1,subscription,Netflix,1 month subscription,Expense,1.8308,2024-10-19
+Saving Bank account 1,Small Cap fund 2,,,Transfer-Out,46.0,2024-10-13
+Cash,Apparel,Shoes,Nike,Expense,460.0,2024-10-18
+Saving Bank account 1,Small cap fund 1,,,Transfer-Out,46.0,2024-10-13
+Credit Card,subscription,Mobile Service Provider,Data booster pack,Expense,6.1364,2024-10-12
+Saving Bank account 1,Food,Lunch,Home Food Delivery,Expense,5.9799999999999995,2024-10-11
+Cash,Apparel,Clothes,Pants,Expense,18.4,2024-10-11
+Saving Bank account 1,Other,,From Family,Income,32.2,2024-10-11
+Cash,Food,Milk,Half lit  milk,Expense,0.3312,2024-10-11
+Cash,Food,Milk,Half lit  milk,Expense,0.3312,2024-10-10
+Cash,Family,Pocket money,,Expense,0.368,2024-10-08
+Cash,Apparel,Clothes,Skirt,Expense,9.2,2024-10-08
+Cash,Apparel,Shoes,Nike,Expense,368.0,2024-10-08
+Cash,Food,Milk,Half lit  milk,Expense,0.3404,2024-10-07
+Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2024-10-07
+Cash,Food,snacks,Amul butter,Expense,0.506,2024-10-06
+Cash,Apparel,Laundry,11 clothes ironing,Expense,0.7084,2024-10-05
+Cash,Food,snacks,Chinese Bhel,Expense,0.276,2024-10-05
+Cash,Food,snacks,Shev Puri,Expense,0.368,2024-10-05
+Cash,Apparel,Shoes,Nike,Expense,276.0,2024-10-05
+Cash,Food,snacks,2 kachori,Expense,0.2208,2024-10-05
+Saving Bank account 1,Food,Milk,Half lit  milk,Expense,0.3312,2024-10-05
+Saving Bank account 1,Food,breakfast,Bread,Expense,0.1656,2024-10-05
+Cash,Family,Pocket money,,Expense,18.4,2024-10-03
+Saving Bank account 1,Public Provident Fund,,,Transfer-Out,115.0,2024-10-01
+Equity Mutual Fund B,Saving Bank account 1,,,Transfer-Out,18.4,2024-10-01
+Cash,Apparel,Clothes,Pants,Expense,13.799999999999999,2024-10-31
+Cash,Apparel,Clothes,Pants,Expense,13.799999999999999,2024-10-28
+Saving Bank account 1,Life Insurance,,,Transfer-Out,101.5956,2024-10-22
+Saving Bank account 1,subscription,Netflix,1 month subscription,Expense,1.8308,2024-10-19
+Cash,Apparel,Clothes,Pants,Expense,18.4,2024-10-17
+Saving Bank account 1,Small Cap fund 2,,,Transfer-Out,46.0,2024-10-13
+Saving Bank account 1,Small cap fund 1,,,Transfer-Out,46.0,2024-10-13
+Cash,Food,snacks,8 kachori,Expense,0.8832,2024-10-11
+Cash,Family,Pocket money,,Expense,0.322,2024-10-10
+Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2024-10-07
+Cash,Beauty,grooming,hair cut,Expense,0.9199999999999999,2024-10-06
+Cash,Family,Pocket money,,Expense,0.9199999999999999,2024-10-05
+Cash,Food,Tea,cutting chai,Expense,0.092,2024-10-05
+Credit Card,Health,Health,eyewear Glasses payment remaining,Expense,39.56,2024-10-05
+Credit Card,Apparel,Clothing,For Family,Expense,31.372,2024-10-05
+Cash,Transportation,Train,Place 0 to Place 4 return,Expense,0.184,2024-10-05
+Cash,Transportation,auto,Current Residence to Place 0,Expense,0.138,2024-10-05
+Credit Card,Family,clothes,Bows,Expense,3.6616,2024-10-05
+Saving Bank account 1,Other,,From Family,Income,0.9199999999999999,2024-10-03
+Cash,Family,Pocket money,,Expense,18.4,2024-10-03
+Saving Bank account 1,Dividend earned on Shares,,Redington Stocks,Income,1.656,2024-10-03
+Cash,Household,Kirana,Supermart,Expense,0.1656,2024-10-02
+Cash,Food,flour mill,M D sure 4kg atta,Expense,1.9872,2024-10-02
+Cash,Health,Health,eyewear Glasses advance,Expense,9.2,2024-10-02
+Cash,Family,Pocket money,,Expense,0.368,2024-10-01
+Saving Bank account 1,Public Provident Fund,,,Transfer-Out,115.0,2024-10-01
+Equity Mutual Fund B,Saving Bank account 1,,,Transfer-Out,18.4,2024-10-01
+Saving Bank account 1,Small Cap fund 2,,,Transfer-Out,46.0,2024-10-13
+Saving Bank account 1,Small cap fund 1,,,Transfer-Out,46.0,2024-10-13
+Cash,Food,Eggs,6 eggs,Expense,0.322,2024-10-12
+Cash,Food,Bread,2 bread packets,Expense,0.5244,2024-10-11
+Saving Bank account 1,Dividend earned on Shares,,Tata Steel Stocks,Income,1.656,2024-10-10
+Cash,Transportation,Petrol,3.4 Lit Petrol,Expense,3.312,2024-10-09
+Cash,Food,Biscuits,Toast packet,Expense,0.184,2024-10-09
+Cash,Food,Grocery,Shev bhaji sev pav kg,Expense,0.552,2024-10-09
+Cash,Transportation,Taxi,Ola cab - eye institute to Current Residence CHS,Expense,1.702,2024-10-08
+Saving Bank account 1,Food,Tea,3 cutting chai,Expense,0.276,2024-10-08
+Credit Card,Health,Medicine,eye drop,Expense,1.4076,2024-10-08
+Cash,Health,Hospital,Hospital consultation,Expense,4.6,2024-10-08
+Cash,Transportation,Taxi,Ola cab - Current Residence CHS to eye institute,Expense,1.196,2024-10-08
+Saving Bank account 1,Transportation,Taxi,To and Fro Cab Fare Contribution,Expense,6.21,2024-10-08
+Cash,Transportation,Train,Place 4 to Place 0,Expense,0.092,2024-10-07
+Credit Card,Food,Lunch,At restaurant,Expense,0.0184,2024-10-07
+Saving Bank account 1,subscription,Mahanagar Gas,,Expense,1.8032,2024-10-07
+Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2024-10-07
+Cash,Food,Dinner,At restaurant,Expense,6.992,2024-10-06
+Cash,Transportation,Taxi,Park Inn Goa,Expense,0.9199999999999999,2024-10-06
+Cash,Transportation,auto,Terminal 1 to Terminal 2,Expense,0.7636,2024-10-05
+Cash,Food,Tea,cutting chai,Expense,0.0644,2024-10-05
+Cash,Transportation,auto,Current Residence to Place 0,Expense,0.138,2024-10-05
+Cash,Transportation,Train,Place 0 to Place P,Expense,0.184,2024-10-05
+Cash,Health,Hospital,Doctor Fees,Expense,0.9199999999999999,2024-10-04
+Cash,Beauty,grooming,Shaving,Expense,0.45999999999999996,2024-10-04
+Cash,Family,Pocket money,,Expense,3.2199999999999998,2024-10-04
+Saving Bank account 1,Health,Lab Tests,2 Thyroid (1000) + cholesterol (220) + uric acid (220),Expense,13.248,2024-10-04
+Cash,maid,,,Expense,4.6,2024-10-03
+Saving Bank account 1,Food,Milk,Half lit  milk,Expense,0.3312,2024-10-03
+Credit Card,subscription,Tata Sky,Current Residence - Tata Play recharge,Expense,1.4168,2024-10-03
+Saving Bank account 1,Dividend earned on Shares,,Infosys Stocks,Income,0.483,2024-10-03
+Equity Mutual Fund B,Saving Bank account 1,,,Transfer-Out,18.4,2024-10-03
+Saving Bank account 1,Household,Kirana,Supermart,Expense,14.674,2024-10-02
+Cash,Transportation,auto,Place 1 bridge to Current Residence 2 seats,Expense,0.45999999999999996,2024-10-02
+Cash,Transportation,Bus,2 Place 6 Stand to MS,Expense,0.184,2024-10-02
+Credit Card,Household,home decor,Face towels + shampoo,Expense,5.7592,2024-10-02
+Cash,Transportation,Bus,2 Place 1 to  mall,Expense,0.2392,2024-10-02
+Cash,Transportation,auto,Current Residence to Place 1 bus stop highway,Expense,0.368,2024-10-02
+Debit Card,Culture,Movie,2 PVR ,Expense,4.2412,2024-10-01
+Credit Card,Transportation,Travels,2 Place 2 to Place 1 - Shree Sharma Travels,Expense,17.387999999999998,2024-10-01
+Saving Bank account 1,Food,snacks,Vadapav,Expense,0.138,2024-10-01
+Saving Bank account 1,Apparel,Clothing,undergarments pair of Jockey,Expense,3.956,2024-10-01
+Cash,Apparel,Laundry,clothes ironing,Expense,0.9016,2024-10-01
+Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.6624,2024-10-01
+Saving Bank account 1,Public Provident Fund,,,Transfer-Out,115.0,2024-10-01
+Saving Bank account 1,Money transfer,Home,,Expense,92.0,2024-10-01
+Saving Bank account 1,Small Cap fund 2,,,Transfer-Out,46.0,2024-10-13
+Saving Bank account 1,Small cap fund 1,,,Transfer-Out,46.0,2024-10-13
+Cash,Food,Eggs,12 eggs,Expense,0.7727999999999999,2024-10-11
+Credit Card,Self-development,,Marathon,Expense,12.9444,2024-10-11
+Saving Bank account 1,Household,home decor,Sofa covers,Expense,27.599999999999998,2024-10-10
+Credit Card,subscription,Mobile Service Provider,Data booster pack,Expense,6.1364,2024-10-09
+Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2024-10-07
+Saving Bank account 1,Public Provident Fund,,,Transfer-Out,115.0,2024-10-01
+Equity Mutual Fund B,Saving Bank account 1,,,Transfer-Out,18.4,2024-10-01
+Saving Bank account 1,Life Insurance,,,Transfer-Out,101.5956,2024-10-22
+Saving Bank account 1,Small Cap fund 2,,,Transfer-Out,46.0,2024-10-13
+Saving Bank account 1,Small cap fund 1,,,Transfer-Out,46.0,2024-10-13
+Credit Card,Food,Dinner,Domino's Pizza,Expense,4.0203999999999995,2024-10-12
+Cash,Food,Lunch,Catering Service,Expense,0.644,2024-10-12
+Cash,Food,snacks,4 kachori,Expense,0.4416,2024-10-12
+Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.6624,2024-10-12
+Cash,Food,Rajgira ladu,1 packet,Expense,0.184,2024-10-11
+Saving Bank account 1,Food,Ice cream,2 Faluda,Expense,0.736,2024-10-10
+Saving Bank account 1,Other,,NEFT from Big Share Services,Income,8.7124,2024-10-10
+Cash,subscription,Newspaper,Mata + TOI + ET,Expense,0.1104,2024-10-09
+Cash,Food,Biscuits,Toast packet,Expense,0.414,2024-10-09
+Cash,Food,Milk,Half lit  milk,Expense,0.3312,2024-10-09
+Credit Card,subscription,Netflix,,Expense,1.8308,2024-10-09
+Cash,Food,Sweets,Kaju katli half kg,Expense,4.6,2024-10-08
+Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.6624,2024-10-08
+Cash,Beauty,grooming,Shaving,Expense,0.45999999999999996,2024-10-08
+Credit Card,Household,Toiletries,Handwash container2 + window cleaner,Expense,9.9912,2024-10-07
+Cash,Transportation,Bike,Mall parking,Expense,0.184,2024-10-07
+Saving Bank account 1,subscription,Mahanagar Gas,,Expense,4.7379999999999995,2024-10-07
+Saving Bank account 1,Food,Lunch,Home Food Delivery,Expense,3.956,2024-10-07
+Cash,Food,Milk,milk 1lit ,Expense,0.6624,2024-10-07
+Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2024-10-07
+Saving Bank account 1,Other,,From Family,Income,27.599999999999998,2024-10-06
+Cash,Family,Pocket money,,Expense,5.52,2024-10-05
+Cash,Household,Kirana,Supermart,Expense,0.3404,2024-10-04
+Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.6624,2024-10-04
+Saving Bank account 1,Food,snacks,Bhaji + vadapav,Expense,0.368,2024-10-03
+Saving Bank account 1,Food,fruits,Mango 1.5 kg,Expense,2.576,2024-10-02
+Cash,Food,Milk,milk 1lit ,Expense,0.6624,2024-10-01
+Saving Bank account 1,Health,Medicine,ITone eye drops,Expense,0.3956,2024-10-01
+Saving Bank account 1,Health,Medicine,Refresh Tears Drop,Expense,1.1224,2024-10-01
+Cash,Family,Pocket money,,Expense,2.392,2024-10-01
+Saving Bank account 1,Public Provident Fund,,,Transfer-Out,115.0,2024-10-01
+Equity Mutual Fund B,Saving Bank account 1,,,Transfer-Out,18.4,2024-10-01
+Saving Bank account 1,Money transfer,Home,,Expense,92.0,2024-10-01
+Saving Bank account 1,Small Cap fund 2,,,Transfer-Out,46.0,2024-10-13
+Saving Bank account 1,Small cap fund 1,,,Transfer-Out,46.0,2024-10-13
+Credit Card,subscription,Netflix,,Expense,1.8308,2024-10-12
+Cash,Household,Kirana,,Expense,1.0304,2024-10-12
+Cash,Food,snacks,Pattice,Expense,0.184,2024-10-12
+Cash,Food,Lunch,Catering Service,Expense,1.196,2024-10-12
+Cash,Food,breakfast,Bread,Expense,0.1656,2024-10-10
+Cash,Food,Lunch,Catering Service,Expense,0.644,2024-10-10
+Saving Bank account 1,Gift,,farewell contribution,Expense,2.3,2024-10-10
+Cash,Food,Grocery,Ginger,Expense,0.092,2024-10-09
+Cash,Food,Milk,milk 1lit ,Expense,0.6624,2024-10-09
+Credit Card,Household,Kirana,Supermart,Expense,17.0844,2024-10-07
+Cash,Household,Kirana,Pav kg chana dal,Expense,0.2208,2024-10-07
+Cash,Food,Milk,Half lit  milk,Expense,0.3312,2024-10-07
+Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2024-10-07
+Saving Bank account 1,Money transfer,Home,,Expense,225.4,2024-10-06
+Cash,Household,Kirana,Idli pith 1kg,Expense,0.3496,2024-10-05
+Cash,Food,Eggs,6 eggs,Expense,0.3312,2024-10-05
+Cash,Food,Milk,milk 1lit ,Expense,0.6624,2024-10-05
+Cash,Food,Lunch,Catering Service,Expense,1.196,2024-10-05
+Saving Bank account 1,Public Provident Fund,,,Transfer-Out,115.0,2024-10-03
+Equity Mutual Fund B,Saving Bank account 1,,,Transfer-Out,18.4,2024-10-03
+Cash,Transportation,Bike,Mall parking,Expense,0.184,2024-10-02
+Credit Card,Household,Hardware,Window cleaner,Expense,1.3708,2024-10-02
+Cash,Food,Grocery,Pav kg Lahsoon,Expense,0.2208,2024-10-02
+Cash,Food,curd,Dahi 2 packets,Expense,0.184,2024-10-02
+Cash,Food,Onions,onion 2 kg,Expense,0.3312,2024-10-02
+Cash,maid,,,Expense,18.4,2024-10-02
+Saving Bank account 2,Interest,,interest paid,Income,3.174,2024-10-01
+Saving Bank account 1,Other,,ATM charge,Expense,0.05428,2024-10-01
+Saving Bank account 1,Other,,ATM charge,Expense,0.227976,2024-10-01
+Saving Bank account 2,Interest,,interest paid,Income,3.1753799999999996,2024-10-01
+Cash,Food,Milk,milk 1lit ,Expense,0.6624,2024-10-01
+Saving Bank account 1,Money transfer,Home,,Expense,92.05427999999999,2024-10-01
+Saving Bank account 1,Small Cap fund 2,,,Transfer-Out,46.0,2024-10-13
+Saving Bank account 1,Small cap fund 1,,,Transfer-Out,46.0,2024-10-13
+Saving Bank account 1,Transportation,train,2 Place 3 to Place 2 : Sevagram express 3AC,Expense,11.8956,2024-10-12
+Cash,Household,Hardware,Mosquito Racket,Expense,2.76,2024-10-10
+Cash,Health,Health,All out refill,Expense,0.7084,2024-10-10
+Cash,Food,Milk,1 lit ,Expense,0.6624,2024-10-10
+Cash,Food,Milk,Half lit  milk,Expense,0.3312,2024-10-10
+Saving Bank account 1,Apparel,Laundry,clothes ironing,Expense,0.8371999999999999,2024-10-08
+Cash,Food,Bread,Flatbread 12 pcs,Expense,0.368,2024-10-08
+Cash,Petty cash,,From Family,Income,4.6,2024-10-08
+Saving Bank account 1,subscription,Mahanagar Gas,,Expense,4.968,2024-10-08
+Cash,Food,Eggs,6 eggs,Expense,0.3312,2024-10-08
+Cash,Food,Milk,Half lit  milk,Expense,0.3312,2024-10-08
+Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2024-10-08
+Saving Bank account 1,Festivals,Holi,Holi Tip to cleaner,Expense,0.184,2024-10-07
+Saving Bank account 1,Food,snacks,2 Vadapav,Expense,0.276,2024-10-07
+Cash,Health,Medicine,Thyroid Tablets,Expense,1.5824,2024-10-06
+Cash,Health,Medicine,5 Meftal spas,Expense,0.2024,2024-10-06
+Saving Bank account 1,Education,Stationary,Xerox,Expense,0.0368,2024-10-06
+Saving Bank account 1,Petty cash,,From Family,Income,32.2,2024-10-06
+Cash,Food,Milk,Half lit  milk,Expense,0.3312,2024-10-06
+Credit Card,Documents,Courier,Aadhar PUC card delivery,Expense,0.45999999999999996,2024-10-06
+Cash,Family,Pocket money,,Expense,0.45999999999999996,2024-10-06
+Cash,Food,Ice cream,chocobar,Expense,0.184,2024-10-05
+Saving Bank account 1,Food,flour mill,M D sure 3kg atta,Expense,1.4904,2024-10-05
+Credit Card,Household,Kirana,Supermart,Expense,12.484399999999999,2024-10-05
+Credit Card,Household,Kirana,Smart point,Expense,8.9424,2024-10-05
+Saving Bank account 1,Other,,blanket sewing,Expense,0.092,2024-10-05
+Cash,Family,Pocket money,,Expense,4.14,2024-10-04
+Cash,Food,Lunch,Catering Service,Expense,1.196,2024-10-04
+Saving Bank account 1,Dividend earned on Shares,,ITC Stocks,Income,0.7176,2024-10-03
+Saving Bank account 1,Food,Milk,Half lit  milk,Expense,0.3312,2024-10-03
+Saving Bank account 1,Food,Ice cream,chocobar,Expense,0.138,2024-10-02
+Credit Card,Food,Dinner,Domino's Pizza,Expense,1.7388,2024-10-01
+Cash,Food,Eggs,6 eggs,Expense,0.3312,2024-10-01
+Saving Bank account 1,Public Provident Fund,,,Transfer-Out,92.0,2024-10-01
+Equity Mutual Fund B,Saving Bank account 1,,,Transfer-Out,18.4,2024-10-01
+Saving Bank account 1,Money transfer,Home,,Expense,92.0,2024-10-01
+Saving Bank account 1,Life Insurance,,,Transfer-Out,101.5956,2024-10-22
+Saving Bank account 1,Small Cap fund 2,,,Transfer-Out,46.0,2024-10-13
+Saving Bank account 1,Small cap fund 1,,,Transfer-Out,46.0,2024-10-13
+Saving Bank account 1,Food,Eggs,6 eggs,Expense,0.3312,2024-10-12
+Saving Bank account 1,Food,curd,3 packets,Expense,0.276,2024-10-12
+Cash,Food,flour mill,M D sure 3kg atta,Expense,1.4904,2024-10-12
+Cash,Transportation,auto,2 Place 0 to Current Residence,Expense,0.276,2024-10-11
+Cash,Food,Dinner,pav Bhaji,Expense,2.162,2024-10-11
+Cash,Food,snacks,Vadapav,Expense,0.138,2024-10-11
+Cash,Transportation,Train,Place 0 to Place 3 returns,Expense,0.368,2024-10-11
+Cash,Transportation,auto,Current Residence to Place 0,Expense,0.138,2024-10-11
+Saving Bank account 1,Share Market,,,Transfer-Out,44.39,2024-10-10
+Saving Bank account 1,Food,Milk,1 lit ,Expense,0.6348,2024-10-10
+Saving Bank account 1,Apparel,Laundry,clothes ironing,Expense,0.9016,2024-10-09
+Saving Bank account 1,Food,snacks,Shev Puri,Expense,0.322,2024-10-08
+Saving Bank account 1,Food,Onions,onion 1 kg,Expense,0.22999999999999998,2024-10-08
+Saving Bank account 1,Food,Milk,1 lit ,Expense,0.6348,2024-10-08
+Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2024-10-07
+Credit Card,Culture,Movie,2 PVR Place 6,Expense,2.8704,2024-10-06
+Cash,Family,Pocket money,,Expense,4.6,2024-10-05
+Saving Bank account 1,Food,Grocery,Raw chicken half kg,Expense,2.024,2024-10-05
+Saving Bank account 1,Food,Biscuits,Khari packet,Expense,0.414,2024-10-05
+Saving Bank account 1,Food,Milk,1 packet,Expense,0.6348,2024-10-05
+Credit Card,Food,Dinner,Domino's Pizza,Expense,4.1584,2024-10-04
+Saving Bank account 1,Food,Lunch,Catering Service,Expense,0.45999999999999996,2024-10-04
+Saving Bank account 1,Food,Milk,Half lit  milk,Expense,0.322,2024-10-04
+Saving Bank account 1,Food,Ice cream,chocobar,Expense,0.092,2024-10-03
+Credit Card,Transportation,Travels,Place 2 to Place 1 - Shree Sharma Travels,Expense,8.693999999999999,2024-10-03
+Cash,Gpay Reward,,,Income,0.0552,2024-10-03
+Saving Bank account 1,Food,Lunch,Catering Service,Expense,0.7544,2024-10-02
+Saving Bank account 1,Share Market,,,Transfer-Out,26.0912,2024-10-02
+Saving Bank account 1,Gpay Reward,,,Income,0.0552,2024-10-02
+Cash,Family,Pocket money,,Expense,1.564,2024-10-02
+Saving Bank account 1,Food,fruits,8 bananas,Expense,0.276,2024-10-01
+Saving Bank account 1,Food,vegetables,Half kg tomato,Expense,0.138,2024-10-01
+Saving Bank account 1,Share Market,,,Transfer-Out,460.0,2024-10-01
+Saving Bank account 1,Public Provident Fund,,,Transfer-Out,92.0,2024-10-01
+Equity Mutual Fund B,Saving Bank account 1,,,Transfer-Out,18.4,2024-10-01
+Cash,maid,,,Expense,18.4,2024-10-01
+Saving Bank account 1,Money transfer,Home,,Expense,92.0,2024-10-01
+Saving Bank account 1,Small Cap fund 2,,,Transfer-Out,46.0,2024-10-13
+Saving Bank account 1,Small cap fund 1,,,Transfer-Out,46.0,2024-10-13
+Credit Card,Household,Kirana,Smart point,Expense,2.0792,2024-10-12
+Cash,Health,Lab Tests,Family Thyroid Test,Expense,4.6,2024-10-12
+Saving Bank account 1,Share Market,,,Transfer-Out,184.0,2024-10-12
+Saving Bank account 1,Equity Mutual Fund A,,,Transfer-Out,9.2,2024-10-12
+Saving Bank account 1,Food,Eggs,6 eggs,Expense,0.38639999999999997,2024-10-11
+Saving Bank account 1,Food,Milk,1 lit ,Expense,0.6348,2024-10-11
+Saving Bank account 1,Food,Rajgira ladu,2 packets,Expense,0.368,2024-10-10
+Cash,Food,Bread,Flatbread 12 pcs,Expense,0.31279999999999997,2024-10-09
+Saving Bank account 1,Food,Milk,1 lit ,Expense,0.6348,2024-10-09
+Cash,Food,snacks,Vadapav,Expense,0.184,2024-10-08
+Cash,Other,,Gift from inlaws,Income,18.4,2024-10-08
+Credit Card,Household,Hardware,Sony WI-C100 earphones wireless,Expense,12.8708,2024-10-08
+Saving Bank account 1,Food,flour mill,M D sure 2kg atta,Expense,0.9568,2024-10-08
+Cash,Household,Kirana,Harpik 1L,Expense,1.518,2024-10-08
+Cash,Food,Tea,2 cutting chai,Expense,0.184,2024-10-07
+Cash,Transportation,Train,Place 0 to Place 4 return,Expense,0.184,2024-10-07
+Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2024-10-07
+Saving Bank account 1,subscription,Mahanagar Gas,,Expense,7.452,2024-10-06
+Cash,Household,Kirana,Idli pith 1kg,Expense,0.3496,2024-10-06
+Saving Bank account 1,Household,Appliances,5 litres can Distilled water,Expense,0.9199999999999999,2024-10-06
+Cash,Food,curd,2 cups,Expense,0.184,2024-10-06
+Cash,Food,Milk,1 lit ,Expense,0.6348,2024-10-06
+Equity Mutual Fund C,Maturity amount,,,Income,55.6508,2024-10-05
+Cash,Household,Kirana,Cockroach injection,Expense,2.484,2024-10-04
+Cash,Household,Kirana,Nandadip oil bottle,Expense,1.196,2024-10-04
+Cash,Food,Lunch,Catering Service,Expense,0.644,2024-10-04
+Saving Bank account 1,Small cap fund 1,,,Transfer-Out,46.0,2024-10-04
+Saving Bank account 1,Small Cap fund 2,,,Transfer-Out,46.0,2024-10-04
+Saving Bank account 1,Documents,Updation,Aadhar Address Change,Expense,0.45999999999999996,2024-10-04
+Equity Mutual Fund A,Maturity amount,,SIP Redemption,Income,1043.0592,2024-10-04
+Equity Mutual Fund D,Maturity amount,,SIP Redemption,Income,983.25,2024-10-04
+Credit Card,Food,Dinner,Wok express + Domino's,Expense,6.2652,2024-10-03
+Saving Bank account 1,Transportation,Bike,Two Wheeler Bikedelux booking amount,Expense,9.2,2024-10-03
+Saving Bank account 1,Food,Eggs,6 eggs,Expense,0.368,2024-10-03
+Saving Bank account 1,Food,Milk,1 lit ,Expense,0.6348,2024-10-03
+Credit Card,Household,Kirana,Supermart,Expense,10.488,2024-10-02
+Cash,Health,Medicine,Refresh Tears Drop,Expense,1.4536,2024-10-02
+Credit Card,subscription,Amazon Prime,Amazon pay cashback 1017 + Rs.482,Expense,4.4344,2024-10-01
+Cash,Food,Ice cream,Raspberry dolly,Expense,0.138,2024-10-01
+Credit Card,Household,gadgets,Logitech mouse,Expense,5.5108,2024-10-01
+Cash,Food,Milk,1 lit ,Expense,0.6348,2024-10-01
+Saving Bank account 1,Money transfer,Home,,Expense,276.0,2024-10-01
+Cash,maid,,,Expense,18.4,2024-10-01
+Equity Mutual Fund B,Saving Bank account 1,,,Transfer-Out,18.4,2024-10-01
+Saving Bank account 1,Public Provident Fund,,,Transfer-Out,92.0,2024-10-01
+Saving Bank account 1,Equity Mutual Fund C,,,Transfer-Out,9.2,2024-10-22
+Cash,Food,Eggs,6 eggs,Expense,0.368,2024-10-12
+Credit Card,Food,snacks,Double chicken shwarma,Expense,0.9199999999999999,2024-10-12
+Cash,Food,Lunch,Catering Service,Expense,0.736,2024-10-12
+Saving Bank account 1,Equity Mutual Fund F,,,Transfer-Out,9.2,2024-10-12
+Cash,Food,vegetables,,Expense,0.828,2024-10-10
+Cash,Food,fruits,,Expense,2.852,2024-10-10
+Cash,Food,snacks,Gupta bhel,Expense,0.22999999999999998,2024-10-10
+Saving Bank account 1,Food,Lunch,Catering Service,Expense,0.598,2024-10-10
+Cash,Food,Lunch,Catering Service,Expense,0.782,2024-10-09
+Saving Bank account 1,Food,Dinner,Home Food Delivery - roti 17*4+ paneer chatpata 190+ veg crispy 150,Expense,3.7536,2024-10-08
+Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.6348,2024-10-07
+Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2024-10-07
+Saving Bank account 1,Food,Lunch,Catering Service,Expense,1.15,2024-10-06
+Saving Bank account 1,subscription,Tata Sky,Current Residence - Tata Play recharge,Expense,0.9199999999999999,2024-10-05
+Saving Bank account 1,subscription,Edtech Course,,Expense,24.84,2024-10-05
+Saving Bank account 1,Equity Mutual Fund A,,,Transfer-Out,9.2,2024-10-05
+Credit Card,Household,Kirana,Smart point,Expense,8.6204,2024-10-04
+Credit Card,Household,Kirana,Supermart,Expense,9.108,2024-10-04
+Saving Bank account 1,Food,fruits,,Expense,1.104,2024-10-04
+Recurring Deposit,Maturity amount,,Premature closure of RD3 & RD4,Income,129.5912,2024-10-04
+Saving Bank account 1,Gpay Reward,,,Income,0.0552,2024-10-04
+Saving Bank account 1,Food,Bread,,Expense,0.322,2024-10-04
+Cash,Food,snacks,Amul butter,Expense,0.45999999999999996,2024-10-04
+Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.6348,2024-10-04
+Saving Bank account 1,subscription,Newspaper,,Expense,1.012,2024-10-04
+Cash,Food,snacks,Shev Puri,Expense,0.276,2024-10-03
+Saving Bank account 1,Food,Lunch,Home Food Delivery - Chicken lollypop 8 pcs 190 + chicken manchow soup 100,Expense,2.668,2024-10-03
+Cash,Other,,2 kg soil,Expense,0.184,2024-10-03
+Cash,Beauty,grooming,hair cut+shaving,Expense,1.472,2024-10-03
+Saving Bank account 1,Food,Ice cream,chocobar,Expense,0.322,2024-10-02
+Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.6348,2024-10-02
+Saving Bank account 1,Food,Lunch,Catering Service ( 5 methi paranthe),Expense,1.15,2024-10-01
+Saving Bank account 1,Gpay Reward,,,Income,0.0552,2024-10-01
+Saving Bank account 1,Food,Milk,1 lit ,Expense,0.6348,2024-10-01
+Cash,maid,,,Expense,18.4,2024-10-01
+Equity Mutual Fund B,Saving Bank account 1,,,Transfer-Out,18.4,2024-10-01
+Share Market Trading,Saving Bank account 1,,Fund Withdrawal,Transfer-Out,920.0,2024-10-01
+Saving Bank account 1,Public Provident Fund,,,Transfer-Out,368.0,2024-10-01
+Saving Bank account 1,Recurring Deposit,,,Transfer-Out,9.2,2024-10-01
+Saving Bank account 1,Recurring Deposit,,,Transfer-Out,9.2,2024-10-01
+Saving Bank account 1,Equity Mutual Fund C,,,Transfer-Out,9.2,2024-10-22
+Saving Bank account 1,Life Insurance,,,Transfer-Out,101.5956,2024-10-22
+Cash,Transportation,auto,2 Place 0 to Current Residence,Expense,0.276,2024-10-12
+Credit Card,Food,Dinner,At restaurant,Expense,14.03,2024-10-12
+Cash,Food,Tea,,Expense,0.1104,2024-10-12
+Credit Card,Household,Appliances,USB cord,Expense,1.196,2024-10-12
+Cash,Household,Appliances,Screwdriver 2,Expense,1.104,2024-10-12
+Credit Card,Other,,Shopping at Alfa,Expense,33.948,2024-10-12
+Cash,Transportation,auto,Place P station to Alfa market,Expense,0.31279999999999997,2024-10-12
+Cash,Transportation,Train,Place 4 station to Place P return,Expense,0.276,2024-10-12
+Cash,Transportation,Train,Place 0 to Place P return,Expense,0.368,2024-10-12
+Saving Bank account 1,Food,Eggs,6 eggs,Expense,0.3588,2024-10-11
+Saving Bank account 1,Food,Milk,Half lit  milk,Expense,0.2392,2024-10-11
+Saving Bank account 1,Equity Mutual Fund F,,,Transfer-Out,9.2,2024-10-10
+Cash,Apparel,Laundry,clothes ironing : Rs 6 per item,Expense,0.6624,2024-10-09
+Cash,Household,Toiletries,Colgate max fresh small,Expense,0.184,2024-10-09
+Credit Card,Household,Kirana,,Expense,0.6164,2024-10-09
+Saving Bank account 1,Health,Medicine,Acne Star cream,Expense,0.9199999999999999,2024-10-09
+Saving Bank account 1,Food,Lunch,Bhendi bhaji,Expense,0.368,2024-10-09
+Saving Bank account 1,Food,Milk,1 lit ,Expense,0.644,2024-10-09
+Credit Card,Household,Kirana,,Expense,4.9588,2024-10-08
+Saving Bank account 1,Gpay Reward,,,Income,0.0552,2024-10-08
+Saving Bank account 1,Food,fruits,1 kg apple,Expense,1.196,2024-10-08
+Saving Bank account 1,Food,Milk,1 lit ,Expense,0.644,2024-10-07
+Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2024-10-07
+Cash,Food,Eggs,6 eggs,Expense,0.3588,2024-10-06
+Cash,Transportation,auto,Place 0 to Current Residence,Expense,0.138,2024-10-05
+Saving Bank account 1,subscription,Tata Sky,Current Residence - Tata Play recharge,Expense,1.8399999999999999,2024-10-05
+Saving Bank account 1,Equity Mutual Fund A,,,Transfer-Out,9.2,2024-10-05
+Equity Mutual Fund B,Saving Bank account 1,,,Transfer-Out,18.4,2024-10-03
+Saving Bank account 1,subscription,Edtech Course,,Expense,24.84,2024-10-03
+Cash,Food,snacks,2 pavwada,Expense,0.184,2024-10-02
+Cash,Other,,Dambar goli 2 packets ( Naphthalene balls),Expense,1.196,2024-10-02
+Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider freedom pack,Expense,2.7232,2024-10-01
+Saving Bank account 1,Salary,,From workplace ,Income,720.3416,2024-10-01
+Saving Bank account 1,Recurring Deposit,,,Transfer-Out,9.2,2024-10-01
+Saving Bank account 1,Recurring Deposit,,,Transfer-Out,9.2,2024-10-01
+Saving Bank account 1,Public Provident Fund,,,Transfer-Out,92.0,2024-10-01
+Saving Bank account 1,Money transfer,Home,,Expense,92.0,2024-10-01
+Saving Bank account 1,Equity Mutual Fund C,,,Transfer-Out,9.2,2024-10-22
+Saving Bank account 1,Equity Mutual Fund D,,Lumpsum,Transfer-Out,92.0,2024-10-11
+Saving Bank account 1,Transportation,train,Place 2 to Place 3 sevagram,Expense,6.05912,2024-10-11
+Cash,Household,Kitchen,flour mill,Expense,0.1288,2024-10-10
+Saving Bank account 1,Share Market,,Stock market,Transfer-Out,1380.0,2024-10-10
+Saving Bank account 1,Equity Mutual Fund F,,,Transfer-Out,9.2,2024-10-10
+Cash,Food,fruits,,Expense,2.116,2024-10-09
+Cash,Food,Grocery,vegetables,Expense,2.576,2024-10-09
+Saving Bank account 1,subscription,Wifi Internet Service,1 Year Plan (40mbps + UL+ 3 Months Free),Expense,51.888,2024-10-09
+Credit Card,Gift,,For Friend,Expense,59.8,2024-10-08
+Credit Card,Family,clothes,Fab India,Expense,29.421599999999998,2024-10-08
+Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2024-10-07
+Saving Bank account 1,Health,Medicine,,Expense,4.3056,2024-10-06
+Saving Bank account 1,Other,,account opening fee,Expense,1.8399999999999999,2024-10-05
+Saving Bank account 1,Equity Mutual Fund A,,,Transfer-Out,9.2,2024-10-05
+Saving Bank account 1,subscription,Edtech Course,,Expense,24.84,2024-10-04
+Saving Bank account 1,Health,Medicine,Boroline + band aid,Expense,0.45999999999999996,2024-10-04
+Cash,Family,Pocket money,,Expense,3.6799999999999997,2024-10-04
+Credit Card,Household,Kirana,Supermart,Expense,28.105999999999998,2024-10-02
+Cash,maid,,,Expense,18.4,2024-10-02
+Saving Bank account 1,subscription,Hotstar,3 months subscription Mobile,Expense,1.3708,2024-10-01
+Saving Bank account 1,Recurring Deposit,,,Transfer-Out,9.2,2024-10-01
+Saving Bank account 1,Recurring Deposit,,,Transfer-Out,9.2,2024-10-01
+Saving Bank account 1,Public Provident Fund,,,Transfer-Out,92.0,2024-10-01
+Saving Bank account 1,Money transfer,Home,,Expense,92.0,2024-10-01
+Saving Bank account 1,Equity Mutual Fund C,,,Transfer-Out,9.2,2024-10-22
+Saving Bank account 1,Gpay Reward,,,Income,0.046,2024-10-12
+Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.6072,2024-10-12
+Cash,Transportation,auto,Current Residence to Place 1 bus stop highway,Expense,0.552,2024-10-11
+Saving Bank account 1,Transportation,Travels,2 Place 1 to Place 2 - Novelty tour and travels,Expense,23.9016,2024-10-11
+Saving Bank account 1,Family,Pocket money,,Expense,23.0,2024-10-11
+Saving Bank account 1,Gpay Reward,,,Income,0.0552,2024-10-11
+Saving Bank account 1,Food,Grocery,vegetables,Expense,2.622,2024-10-11
+Cash,Transportation,train,Local pass to Family,Expense,0.9199999999999999,2024-10-11
+Cash,Transportation,auto,2 Current Residence to Place 0,Expense,0.276,2024-10-11
+Saving Bank account 1,Food,snacks,Idli 4 pcs + kachori 4 pcs,Expense,0.8556,2024-10-11
+Saving Bank account 1,Household,Kirana,Supermart,Expense,4.7288,2024-10-10
+Saving Bank account 1,Equity Mutual Fund F,,,Transfer-Out,9.2,2024-10-10
+Cash,Health,Medicine,V-wash,Expense,0.414,2024-10-09
+Saving Bank account 1,Transportation,Travels,2 Place 1 to Place 2 - Novelty tour and travels,Expense,13.248,2024-10-08
+Cash,Food,flour mill,M D sure 4kg atta,Expense,1.8032,2024-10-08
+Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2024-10-07
+Cash,Family,Pocket money,,Expense,4.6,2024-10-06
+Cash,Other,,Pant chain repair,Expense,0.184,2024-10-06
+Saving Bank account 1,Food,snacks,Sweet bread cake 90 + veg puff 2,Expense,1.288,2024-10-06
+Saving Bank account 1,subscription,Edtech Course,,Expense,24.84,2024-10-05
+Cash,Education,Stationary,Print outs+ Xerox,Expense,0.45999999999999996,2024-10-05
+Saving Bank account 1,Equity Mutual Fund A,,,Transfer-Out,9.2,2024-10-05
+Saving Bank account 1,Food,Ice cream,4 cups (2 Vanilla 2 tutifruity),Expense,0.368,2024-10-04
+Saving Bank account 1,Other,,clock cell,Expense,0.138,2024-10-03
+Saving Bank account 1,subscription,Newspaper,,Expense,1.564,2024-10-03
+Cash,maid,,,Expense,7.544,2024-10-01
+Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.6072,2024-10-01
+Saving Bank account 1,Recurring Deposit,,,Transfer-Out,9.2,2024-10-01
+Saving Bank account 1,Recurring Deposit,,,Transfer-Out,9.2,2024-10-01
+Saving Bank account 1,Public Provident Fund,,,Transfer-Out,92.0,2024-10-01
+Saving Bank account 1,Money transfer,Home,,Expense,92.0,2024-10-01
+Saving Bank account 1,Life Insurance,,,Transfer-Out,101.5956,2024-10-22
+Saving Bank account 1,Equity Mutual Fund C,,,Transfer-Out,9.2,2024-10-22
+Cash,Festivals,Navratri,Ganpati+ navratri vargani,Expense,7.359999999999999,2024-10-12
+Saving Bank account 1,Transportation,Travels,2 Place 2 to Place 1 - Shree Sharma Travels,Expense,15.318,2024-10-12
+Cash,Gift,,Rakshabandhan ovalini,Expense,4.6,2024-10-11
+Cash,Transportation,Bus,2 CD to Place 1: shivshahi,Expense,4.324,2024-10-11
+Cash,Transportation,auto,within city,Expense,0.9199999999999999,2024-10-11
+Cash,Transportation,Bus,2 Place 1 to VN,Expense,3.036,2024-10-11
+Cash,Transportation,auto,Current Residence to Place 1 bus stop highway,Expense,0.552,2024-10-11
+Saving Bank account 1,Household,Kirana,Dahi (42) + Vanilla essance (34),Expense,0.6992,2024-10-10
+Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.6072,2024-10-10
+Saving Bank account 1,Gpay Reward,,,Income,0.0276,2024-10-10
+Saving Bank account 1,Equity Mutual Fund F,,,Transfer-Out,9.2,2024-10-10
+Saving Bank account 1,Gpay Reward,,,Income,0.0552,2024-10-09
+Saving Bank account 1,Household,Toiletries,Dettol liquid handwash refill,Expense,2.0056,2024-10-09
+Saving Bank account 1,Health,Medicine,Move jel,Expense,1.15,2024-10-09
+Saving Bank account 1,Tourism,Trip,Tours and Travel,Expense,395.59999999999997,2024-10-08
+Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.6072,2024-10-08
+Saving Bank account 1,Gpay Reward,,,Income,0.0552,2024-10-07
+Saving Bank account 1,Family,Pocket money,,Expense,46.0,2024-10-07
+Saving Bank account 1,Food,Milk,Half lit  milk,Expense,0.3036,2024-10-07
+Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2024-10-07
+Saving Bank account 1,Gpay Reward,,,Income,0.0552,2024-10-06
+Cash,Health,Medicine,Vicks VapoRub,Expense,0.2024,2024-10-06
+Saving Bank account 1,subscription,Newspaper,,Expense,1.564,2024-10-06
+Cash,Household,Kirana,,Expense,2.7784,2024-10-06
+Saving Bank account 1,Food,breakfast,krack Jack biscuits,Expense,0.046,2024-10-06
+Saving Bank account 1,Food,Lunch,5 chapati,Expense,0.22999999999999998,2024-10-06
+Credit Card,Gift,,Purse on occasion of Rakshabandhan,Expense,8.3628,2024-10-05
+Credit Card,Gift,,Purse on occasion of Rakshabandhan,Expense,10.534,2024-10-05
+Credit Card,Apparel,Clothing,Family's dresses,Expense,9.0988,2024-10-05
+Saving Bank account 1,Health,Medicine,Cinarest,Expense,0.2484,2024-10-05
+Cash,Family,Pocket money,Change,Expense,0.9199999999999999,2024-10-05
+Saving Bank account 1,Health,Hospital,Medical tests - Family,Expense,56.948,2024-10-05
+Saving Bank account 1,Equity Mutual Fund A,,,Transfer-Out,9.2,2024-10-05
+Saving Bank account 1,Gpay Reward,,,Income,0.1012,2024-10-04
+Saving Bank account 1,subscription,Mobile Service Provider,Family Mobile Service Provider recharge,Expense,27.590799999999998,2024-10-04
+Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.6255999999999999,2024-10-04
+Saving Bank account 1,subscription,Newspaper,,Expense,1.564,2024-10-03
+Saving Bank account 1,subscription,Edtech Course,,Expense,24.84,2024-10-02
+Saving Bank account 1,Food,snacks,Maggie 1 pck,Expense,0.1288,2024-10-02
+Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.6072,2024-10-02
+Saving Bank account 1,Apparel,Clothing,Myntra - tshirt+ denim shorts,Expense,3.6708,2024-10-01
+Cash,Health,Medicine,4 paracetamol tablets,Expense,0.092,2024-10-01
+Saving Bank account 1,Recurring Deposit,,,Transfer-Out,9.2,2024-10-01
+Saving Bank account 1,Recurring Deposit,,,Transfer-Out,9.2,2024-10-01
+Saving Bank account 1,Money transfer,Home,,Expense,92.0,2024-10-01
+Saving Bank account 1,Public Provident Fund,,,Transfer-Out,92.0,2024-10-01
+Saving Bank account 1,Gpay Reward,,reward Gpay,Income,0.0552,2024-10-12
+Saving Bank account 1,Equity Mutual Fund B,,,Transfer-Out,920.0,2024-10-12
+Saving Bank account 1,Gift,,farewell contribution,Expense,4.6,2024-10-12
+Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.5888,2024-10-12
+Saving Bank account 1,Food,Ice cream,chocobar,Expense,0.138,2024-10-11
+Saving Bank account 1,Education,Stationary,Black Ball pen,Expense,0.092,2024-10-11
+Saving Bank account 1,Family,Pocket money,,Expense,46.0,2024-10-11
+Saving Bank account 1,Other,,Gift from inlaws,Income,184.0,2024-10-11
+Cash,Family,Pocket money,,Expense,13.799999999999999,2024-10-11
+Saving Bank account 1,Food,Rajgira ladu,2 packets,Expense,0.45999999999999996,2024-10-10
+Saving Bank account 1,Equity Mutual Fund F,,,Transfer-Out,9.2,2024-10-10
+Credit Card,Household,Kirana,,Expense,26.8916,2024-10-09
+Saving Bank account 1,Food,beverage,sugarcane juice,Expense,0.184,2024-10-09
+Saving Bank account 1,Food,snacks,Vadapav,Expense,0.184,2024-10-09
+Saving Bank account 1,Transportation,Bus,2 Place 3m to Mumbai vidyapeeth,Expense,0.1104,2024-10-09
+Saving Bank account 1,Transportation,Train,2 Place 0 to Place 3 returns,Expense,0.736,2024-10-09
+Saving Bank account 1,Transportation,auto,2 Current Residence to Place 0,Expense,0.276,2024-10-09
+Saving Bank account 1,Food,Grocery,Pizza base packet - Patil dairy,Expense,0.276,2024-10-08
+Saving Bank account 1,Food,Eggs,4 eggs,Expense,0.2392,2024-10-08
+Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.5888,2024-10-08
+Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2024-10-07
+Saving Bank account 1,Equity Mutual Fund E,,Lumpsum,Transfer-Out,460.0,2024-10-06
+Saving Bank account 1,Food,Dinner,Paneer mutter Rs.90+ 5 chapati Rs.25,Expense,1.058,2024-10-05
+Saving Bank account 1,Food,Grocery,2 Kg Onion 30/kg + 1 kg Potato 30/kg + Parle Biscuit Rs 10,Expense,0.9199999999999999,2024-10-05
+Saving Bank account 1,Food,Dinner,veg fried rice 1 full,Expense,1.656,2024-10-05
+Saving Bank account 1,Equity Mutual Fund A,,Lumpsum,Transfer-Out,460.0,2024-10-05
+Saving Bank account 1,Equity Mutual Fund F,,Lumpsum,Transfer-Out,460.0,2024-10-05
+Saving Bank account 1,Food,Lunch,Catering Service (1 bhaji 30 + 3 chapti 15),Expense,0.414,2024-10-05
+Saving Bank account 1,Equity Mutual Fund A,,,Transfer-Out,9.2,2024-10-05
+Saving Bank account 1,Food,Grocery,Dalich peeth pav kg,Expense,0.22999999999999998,2024-10-04
+Saving Bank account 1,subscription,Edtech Course,,Expense,24.84,2024-10-04
+Saving Bank account 1,Transportation,auto,Place 1 bridge to Current Residence 2 seats,Expense,0.552,2024-10-04
+Saving Bank account 1,Food,Bread,,Expense,0.322,2024-10-04
+Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.5888,2024-10-04
+Saving Bank account 1,Other,,Devi Temple,Expense,0.046,2024-10-03
+Saving Bank account 1,subscription,Newspaper,,Expense,1.564,2024-10-03
+Saving Bank account 1,Food,Ice cream,7 mava kulfie,Expense,1.288,2024-10-02
+Saving Bank account 1,Saving Bank account 2,,,Transfer-Out,0.9199999999999999,2024-10-01
+Saving Bank account 1,Transportation,Travels,2 Place 2 to Place 1 - Shree Sharma Travels,Expense,15.7412,2024-10-01
+Saving Bank account 1,Recurring Deposit,,,Transfer-Out,9.2,2024-10-01
+Saving Bank account 1,Recurring Deposit,,,Transfer-Out,9.2,2024-10-01
+Saving Bank account 1,Money transfer,Home,,Expense,92.0,2024-10-01
+Saving Bank account 1,Public Provident Fund,,,Transfer-Out,92.0,2024-10-01
+Saving Bank account 1,Beauty,grooming,hair cut,Expense,0.9199999999999999,2024-10-11
+Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.5888,2024-10-11
+Saving Bank account 1,Health,Medicine,Covaxin booster dose,Expense,3.5512,2024-10-10
+Saving Bank account 1,Transportation,train,2 Kushinagar express (LTT to Place 2),Expense,4.6091999999999995,2024-10-10
+Saving Bank account 1,subscription,Newspaper,TOI,Expense,1.564,2024-10-10
+Saving Bank account 1,Recurring Deposit,,,Transfer-Out,9.2,2024-10-10
+Saving Bank account 1,Equity Mutual Fund F,,,Transfer-Out,9.2,2024-10-10
+Cash,Transportation,auto,2 Place 0 to Current Residence,Expense,0.276,2024-10-08
+Cash,Transportation,auto,2 Current Residence to Place 0,Expense,0.276,2024-10-08
+Cash,Culture,Movie,2 tickets - Cinepolis 4DX 3D,Expense,6.992,2024-10-08
+Saving Bank account 1,Food,breakfast,Bread,Expense,0.322,2024-10-08
+Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.5888,2024-10-08
+Saving Bank account 1,Food,Eggs,6 pcs,Expense,0.322,2024-10-08
+Cash,Household,Kitchen,Sanjori mould,Expense,0.2392,2024-10-07
+Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2024-10-07
+Cash,Education,Stationary,Print out,Expense,0.0276,2024-10-06
+Cash,Food,snacks,2 Veg puff,Expense,0.368,2024-10-06
+Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.5888,2024-10-06
+Cash,Food,Dinner,Chicken Biryani 120+ dal rice 60,Expense,1.656,2024-10-05
+Cash,Food,chocolate,2 Cadbury dairy milk,Expense,0.184,2024-10-05
+Cash,Health,Medicine,3 Sinarest,Expense,0.1656,2024-10-05
+Saving Bank account 1,Health,Medicine,Sofy antibacterial,Expense,1.748,2024-10-05
+Saving Bank account 1,Family,Pocket money,,Expense,23.0,2024-10-05
+Saving Bank account 1,Recurring Deposit,,,Transfer-Out,9.2,2024-10-05
+Saving Bank account 1,Equity Mutual Fund A,,,Transfer-Out,9.2,2024-10-05
+Saving Bank account 1,Food,vegetables,Pav kg Simla mirch 20 + Hari mirch 5,Expense,0.22999999999999998,2024-10-04
+Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.5888,2024-10-04
+Saving Bank account 1,Food,beverage,sugarcane juice,Expense,0.184,2024-10-03
+Saving Bank account 1,Household,Kirana,Supermart,Expense,2.4564,2024-10-03
+Saving Bank account 1,Food,Lunch,Non veg overloaded pizza,Expense,2.23514,2024-10-03
+Saving Bank account 1,subscription,Edtech Course,,Expense,24.840919999999997,2024-10-03
+Saving Bank account 1,Food,snacks,Vadapav,Expense,0.184,2024-10-02
+Saving Bank account 1,Food,flour mill,M D sure 3kg atta,Expense,1.2972,2024-10-02
+Saving Bank account 1,Food,snacks,2 kachori,Expense,0.2208,2024-10-01
+Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.598,2024-10-01
+Saving Bank account 1,Saving Bank account 2,,,Transfer-Out,0.9199999999999999,2024-10-01
+Saving Bank account 1,Public Provident Fund,,,Transfer-Out,92.0,2024-10-01
+Cash,maid,,,Expense,9.2,2024-10-01
+Saving Bank account 1,Money transfer,Home,,Expense,92.0,2024-10-01
+Saving Bank account 1,Life Insurance,,,Transfer-Out,101.5956,2024-10-22
+Saving Bank account 1,subscription,Cable TV,Monthly recharge,Expense,2.4012,2024-10-21
+Cash,Food,Tea,,Expense,0.092,2024-10-12
+Saving Bank account 1,Food,Lunch,4 chapati,Expense,0.184,2024-10-12
+Cash,Food,Tea,,Expense,0.092,2024-10-12
+Saving Bank account 1,Family,Pocket money,,Expense,46.0,2024-10-12
+Saving Bank account 1,Food,Lunch,Full egg fried rice 100 + chicken lollypop 4 pcs 130,Expense,2.1436,2024-10-11
+Saving Bank account 1,subscription,Tata Sky,,Expense,2.116,2024-10-11
+Cash,Food,Tea,,Expense,0.092,2024-10-11
+Saving Bank account 1,Beauty,grooming,Body hair removal cream,Expense,2.9255999999999998,2024-10-11
+Saving Bank account 1,Education,Stationary,Courier,Expense,0.9199999999999999,2024-10-10
+Saving Bank account 1,Education,Stationary,Xerox,Expense,0.1104,2024-10-10
+Saving Bank account 1,Education,Stationary,2 envelope,Expense,0.2208,2024-10-10
+Saving Bank account 1,Food,Dinner,4 chapati,Expense,0.184,2024-10-10
+Cash,Food,snacks,Sweet bread cake 85 + veg puff 2,Expense,1.15,2024-10-10
+Saving Bank account 1,Food,Lunch,Dudhi 30 + 3 chapati,Expense,0.414,2024-10-10
+Saving Bank account 1,Food,breakfast,Tea + 2 kachori,Expense,0.31279999999999997,2024-10-10
+Saving Bank account 1,Recurring Deposit,,,Transfer-Out,9.2,2024-10-10
+Saving Bank account 1,Equity Mutual Fund F,,,Transfer-Out,9.2,2024-10-10
+Cash,Food,Ice cream,Cornetto butterscotch,Expense,0.368,2024-10-09
+Cash,Food,Tea,,Expense,0.092,2024-10-09
+Saving Bank account 1,Food,Dinner,4 chapati,Expense,0.184,2024-10-09
+Saving Bank account 1,Food,Lunch,Chana masala 30 + 3 chapati,Expense,0.414,2024-10-09
+Saving Bank account 1,Food,Dinner,Egg fry + chicken lollypop,Expense,1.7571999999999999,2024-10-08
+Saving Bank account 1,Food,breakfast,Poha 25+ tea 10,Expense,0.322,2024-10-08
+Saving Bank account 1,Food,Dinner,Aloo mutter sabji,Expense,0.276,2024-10-07
+Saving Bank account 1,Food,snacks,Chicken manchow soup,Expense,0.9016,2024-10-07
+Saving Bank account 1,subscription,Mobile Service Provider,No daily limit plan ( 25 GB 30 days),Expense,2.7232,2024-10-07
+Saving Bank account 1,Food,breakfast,Double omlet pav + tea,Expense,0.414,2024-10-07
+Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2024-10-07
+Cash,Food,Dinner,5 chapati,Expense,0.22999999999999998,2024-10-06
+Cash,Food,snacks,Veg puff,Expense,0.184,2024-10-06
+Cash,Food,Tea,,Expense,0.092,2024-10-06
+Saving Bank account 1,Food,Lunch,Paneer masala + hara bhara kabab 6 pcs,Expense,3.036,2024-10-06
+Saving Bank account 1,Food,Dinner,Bhendi masala 30 + 3 chapati,Expense,0.414,2024-10-05
+Cash,Food,beverage,sugarcane juice,Expense,0.184,2024-10-05
+Saving Bank account 1,Food,breakfast,Bread,Expense,0.3036,2024-10-05
+Saving Bank account 1,Recurring Deposit,,,Transfer-Out,9.2,2024-10-05
+Saving Bank account 1,Equity Mutual Fund A,,,Transfer-Out,9.2,2024-10-05
+Saving Bank account 1,subscription,Mobile Service Provider,No daily limit plan ( 25 GB 30 days),Expense,2.7232,2024-10-04
+Cash,Transportation,auto,Place 0 to Current Residence,Expense,0.138,2024-10-03
+Cash,Transportation,Train,40 Place 0 to Place 3 return+ 20 single,Expense,0.552,2024-10-03
+Cash,Transportation,auto,2 Current Residence to Place 0,Expense,0.276,2024-10-03
+Cash,Transportation,Train,Place 0 to Place 6 return,Expense,0.092,2024-10-03
+Saving Bank account 1,Household,Kitchen,Gas stove elica 3 burner,Expense,81.19,2024-10-03
+Saving Bank account 1,Gift,,Decathlon shoes,Expense,16.6612,2024-10-03
+Cash,Transportation,train,Place 3 to Place 2 sevagram,Expense,10.12,2024-10-03
+Saving Bank account 1,subscription,Edtech Course,,Expense,24.840919999999997,2024-10-03
+Saving Bank account 1,Health,Medicine,Q-dee strip,Expense,0.368,2024-10-02
+Saving Bank account 1,Apparel,Footwear,Puma Troy mu running shoes,Expense,22.2732,2024-10-02
+Saving Bank account 1,Food,Tea,2 cups,Expense,0.184,2024-10-02
+Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.5888,2024-10-02
+Cash,maid,,,Expense,9.2,2024-10-01
+Saving Bank account 1,Food,Dinner,2 Fried rice,Expense,2.9532,2024-10-01
+Cash,Transportation,auto,2 Place 0 to Current Residence,Expense,0.276,2024-10-01
+Cash,Transportation,Train,2 Place 0 to WS single,Expense,0.092,2024-10-01
+Cash,Transportation,auto,2 Current Residence to Place 0,Expense,0.276,2024-10-01
+Saving Bank account 1,Apparel,Clothing,Shorts for Family,Expense,3.6708,2024-10-01
+Saving Bank account 1,Apparel,Clothing,H&M Tshirt for Family,Expense,5.5108,2024-10-01
+Saving Bank account 1,Other,,To savings account,Expense,0.9199999999999999,2024-10-01
+Saving Bank account 1,Food,flour mill,M D sure 1kg atta,Expense,0.4324,2024-10-01
+Saving Bank account 1,Public Provident Fund,,,Transfer-Out,92.0,2024-10-01
+Saving Bank account 1,Money transfer,,,Expense,92.0,2024-10-01
+Saving Bank account 1,subscription,Cable TV,Monthly recharge,Expense,2.4012,2024-10-21
+Saving Bank account 1,Food,breakfast,8 pcs meduvada + 4 pcs dal vada + sambar + chatni,Expense,1.15,2024-10-12
+Saving Bank account 1,Food,beverage,sugarcane juice,Expense,0.184,2024-10-10
+Saving Bank account 1,Recurring Deposit,,,Transfer-Out,9.2,2024-10-10
+Saving Bank account 1,Equity Mutual Fund F,,,Transfer-Out,9.2,2024-10-10
+Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2024-10-07
+Saving Bank account 1,Transportation,train,Place 6 to Place 2 - 3Tier AC cancellation charges,Expense,1.96512,2024-10-06
+Saving Bank account 1,Recurring Deposit,,,Transfer-Out,9.2,2024-10-05
+Saving Bank account 1,Equity Mutual Fund A,,,Transfer-Out,9.2,2024-10-05
+Saving Bank account 1,Food,Ice cream,chocobar (25)+ chocolate cup (20),Expense,0.414,2024-10-04
+Saving Bank account 1,Food,snacks,1 chicken shawarma,Expense,0.552,2024-10-03
+Saving Bank account 1,subscription,Edtech Course,,Expense,24.840919999999997,2024-10-03
+Cash,Food,snacks,egg roll,Expense,0.368,2024-10-01
+Cash,Food,Grocery,Half kg potato,Expense,0.092,2024-10-01
+Cash,Food,Grocery,Sambar masala (32)+ 2 milkybar,Expense,0.4784,2024-10-01
+Saving Bank account 1,Public Provident Fund,,,Transfer-Out,92.0,2024-10-01
+Saving Bank account 1,Money transfer,,,Expense,92.0,2024-10-01
+Cash,Transportation,auto,2 Place 0 to Current Residence,Expense,0.276,2024-10-12
+Cash,Food,beverage,2 sugarcane juice,Expense,0.368,2024-10-12
+Cash,Food,Lunch,pav bhaji pav(90) + 4 pav extra(40),Expense,1.196,2024-10-12
+Cash,Culture,Movie,2 Batman tickets,Expense,4.048,2024-10-12
+Cash,Transportation,Train,2 Place 0 to Place 4 return,Expense,0.368,2024-10-12
+Cash,Transportation,auto,2 Current Residence to Place 0,Expense,0.276,2024-10-12
+Cash,Transportation,auto,2 Place 0 to Current Residence,Expense,0.276,2024-10-11
+Cash,Transportation,Train,2 Place 0 to WS returns,Expense,0.184,2024-10-11
+Cash,Food,snacks,bhel + shev puri,Expense,0.552,2024-10-11
+Saving Bank account 1,Food,Grocery,1.5 lit milk + 3 cold drink + 1 khari + 1 bread,Expense,1.8399999999999999,2024-10-11
+Saving Bank account 1,Transportation,Travels,2 Place 2 to Place 1,Expense,14.719816,2024-10-10
+Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider freedom pack,Expense,2.7232,2024-10-10
+Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.5704,2024-10-10
+Saving Bank account 1,Food,snacks,3 plate kachori,Expense,0.6624,2024-10-10
+Saving Bank account 1,Recurring Deposit,,,Transfer-Out,9.2,2024-10-10
+Saving Bank account 1,Equity Mutual Fund F,,,Transfer-Out,9.2,2024-10-10
+Cash,Food,beverage,2 orange juices,Expense,0.9199999999999999,2024-10-09
+Saving Bank account 1,Food,Grocery,2 Schwan chutteny + 2 cheese cube + amul butter,Expense,0.9199999999999999,2024-10-09
+Saving Bank account 1,Food,Ice cream,naturals,Expense,1.38,2024-10-08
+Cash,Food,fruits,1 kg apple + grapes 0.5 kg,Expense,1.748,2024-10-07
+Cash,Food,Grocery,,Expense,0.966,2024-10-07
+Saving Bank account 1,Food,Ice cream,vanilla ice cream cups 2,Expense,0.184,2024-10-07
+Saving Bank account 1,Food,Milk,milk 1lit ,Expense,0.5704,2024-10-07
+Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2024-10-07
+Saving Bank account 1,subscription,Edtech Course,,Expense,24.840919999999997,2024-10-07
+Cash,Food,Milk,milk 1lit ,Expense,0.5704,2024-10-06
+Cash,Food,breakfast,2 plate medu vada + 2 pcs dal vada,Expense,0.414,2024-10-06
+Cash,Apparel,Footwear,footwear repair,Expense,0.092,2024-10-05
+Cash,Household,Toiletries,plastic kharata + brush,Expense,1.288,2024-10-05
+Saving Bank account 1,Food,Grocery,,Expense,8.7308,2024-10-05
+Cash,Transportation,auto,Place 0 to sec 21,Expense,0.276,2024-10-05
+Cash,Food,beverage,sugarcane juice 2,Expense,0.276,2024-10-05
+Cash,Transportation,Train,Place 0 to Place 6 return 2,Expense,0.184,2024-10-05
+Cash,Transportation,auto,Current Residence to Place 0,Expense,0.276,2024-10-05
+Saving Bank account 1,Recurring Deposit,,,Transfer-Out,9.2,2024-10-05
+Saving Bank account 1,Equity Mutual Fund A,,,Transfer-Out,9.2,2024-10-05
+Cash,Food,Ice cream,vanilla ice cream cups 2,Expense,0.184,2024-10-04
+Saving Bank account 1,Food,Grocery,milk 1 lit + butter milk + srikhand pav kg,Expense,1.3616,2024-10-03
+Cash,Household,Hardware,measuring tape,Expense,0.45999999999999996,2024-10-01
+Saving Bank account 1,Public Provident Fund,,,Transfer-Out,92.0,2024-10-01
+Saving Bank account 1,Money transfer,,,Expense,92.0,2024-10-01
+Saving Bank account 1,Life Insurance,,,Transfer-Out,103.8312,2024-10-15
+Saving Bank account 1,Other,,laptop repair (format 350 + quick heal pro 500),Expense,7.82,2024-10-12
+Cash,Other,, courier,Expense,0.69,2024-10-11
+Cash,Food,snacks,single pav vada,Expense,0.092,2024-10-11
+Cash,Family,Pocket money,,Expense,9.2,2024-10-11
+Saving Bank account 1,Recurring Deposit,,,Transfer-Out,9.2,2024-10-10
+Saving Bank account 1,Equity Mutual Fund F,,,Transfer-Out,9.2,2024-10-10
+Saving Bank account 1,Gift,,Handbag to Family,Expense,13.790799999999999,2024-10-08
+Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2024-10-07
+Cash,Food,fruits,half kg chiku,Expense,0.276,2024-10-06
+Cash,Food,fruits,1 kg apple,Expense,1.288,2024-10-06
+Cash,Food,Grocery,vegetables,Expense,1.794,2024-10-06
+Saving Bank account 1,Food,Grocery,jira + toast pav kilo,Expense,1.012,2024-10-06
+Cash,Transportation,auto,within city,Expense,0.368,2024-10-05
+Cash,Food,Tea,,Expense,0.092,2024-10-05
+Cash,Transportation,Bus,N to M,Expense,3.036,2024-10-05
+Saving Bank account 1,Recurring Deposit,,,Transfer-Out,9.2,2024-10-05
+Saving Bank account 1,Equity Mutual Fund A,,,Transfer-Out,9.2,2024-10-05
+Cash,Apparel,Laundry,clothes ironing,Expense,0.3496,2024-10-04
+Saving Bank account 1,Food,beverage,5 pouch of shreejal,Expense,0.552,2024-10-04
+Cash,Food,snacks,samosa + sabudana vada,Expense,0.4876,2024-10-04
+Cash,Food,Milk,half liter buffalo,Expense,0.276,2024-10-04
+Cash,Health,Medicine,meftal spas,Expense,0.0736,2024-10-03
+Saving Bank account 1,Food,Dinner,parath + chicken biryani,Expense,3.7927,2024-10-03
+Cash,Food,beverage,shreejal 1,Expense,0.1104,2024-10-03
+Cash,Food,breakfast,parle top biscuits,Expense,0.092,2024-10-03
+Saving Bank account 1,Food,snacks,chicken roll,Expense,0.45999999999999996,2024-10-03
+Saving Bank account 1,subscription,Edtech Course,,Expense,24.840919999999997,2024-10-03
+Saving Bank account 1,Food,Dinner,At restaurant,Expense,10.672,2024-10-02
+Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge wfh,Expense,2.7692,2024-10-02
+Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge wfh,Expense,2.7692,2024-10-01
+Saving Bank account 1,Food,Milk,half liter buffalo,Expense,0.3036,2024-10-01
+Saving Bank account 1,Public Provident Fund,,,Transfer-Out,92.0,2024-10-01
+Saving Bank account 1,Money transfer,,,Expense,92.0,2024-10-01
+Cash,Food,Grocery,3 chips packets + bread,Expense,0.414,2024-10-11
+Saving Bank account 1,Health,Medicine,adulsa ( tonic for cough ),Expense,0.828,2024-10-11
+Saving Bank account 1,Recurring Deposit,,,Transfer-Out,9.2,2024-10-10
+Saving Bank account 1,Equity Mutual Fund F,,,Transfer-Out,9.2,2024-10-10
+Cash,Food,fruits,1 kg apple + bananas,Expense,1.472,2024-10-10
+Saving Bank account 1,Food,Grocery,Himalaya soap(30) + Sofie (59) + kitkat (10),Expense,0.9107999999999999,2024-10-09
+Cash,Beauty,grooming,hair cut+shaving,Expense,0.736,2024-10-09
+Saving Bank account 1,subscription,Netflix,1 month subscription,Expense,1.3708,2024-10-08
+Cash,Transportation,auto,Place 2 bus stand to Permanent Residence,Expense,0.45999999999999996,2024-10-08
+Saving Bank account 1,Food,snacks,woffel,Expense,1.6099999999999999,2024-10-07
+Cash,Transportation,auto,Current Residence to hotel on highway,Expense,0.45999999999999996,2024-10-07
+Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2024-10-07
+Saving Bank account 1,Transportation,Travels,Place 1 to Place 2 - Novelty tour and travels,Expense,12.8478,2024-10-06
+Saving Bank account 1,Food,Dinner,veg paneer tikka 3 roti,Expense,2.7048,2024-10-06
+Cash,Food,Milk,milk 0.5 lit ,Expense,0.2852,2024-10-06
+Cash,Household,Appliances,moscuito racket,Expense,1.8399999999999999,2024-10-06
+Saving Bank account 1,Food,snacks,4 Shegaon kachori,Expense,0.4416,2024-10-06
+Saving Bank account 1,Recurring Deposit,,,Transfer-Out,9.2,2024-10-05
+Saving Bank account 1,Equity Mutual Fund A,,,Transfer-Out,9.2,2024-10-05
+Cash,Household,Appliances,inverter battery check,Expense,0.9199999999999999,2024-10-05
+Cash,Food,Milk,milk 0.5 lit ,Expense,0.2852,2024-10-05
+Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge wfh,Expense,2.7692,2024-10-05
+Cash,Food,Grocery,biscuits+icecream,Expense,0.368,2024-10-04
+Saving Bank account 1,subscription,Edtech Course,,Expense,25.915664,2024-10-03
+Cash,Food,Grocery,fruits and vegetables,Expense,1.288,2024-10-03
+Cash,Food,chocolate,Pastry 2,Expense,0.45999999999999996,2024-10-03
+Cash,Food,Tea,yevle amrutullya,Expense,0.184,2024-10-03
+Saving Bank account 1,Food,Milk,milk 0.5 lit ,Expense,0.2852,2024-10-03
+Cash,Food,Lunch,2 uttapam,Expense,2.852,2024-10-03
+Cash,Food,Water,,Expense,0.644,2024-10-03
+Cash,Food,Lunch,farm house pizza,Expense,3.036,2024-10-03
+Cash,Culture,Movie,Imax 3D,Expense,3.6799999999999997,2024-10-03
+Cash,Transportation,train,Place 0 to WS returns,Expense,0.184,2024-10-03
+Cash,Transportation,auto,Current Residence to Place 0,Expense,0.276,2024-10-03
+Cash,Transportation,auto,Current Residence to Place 0,Expense,0.552,2024-10-02
+Cash,Household,Kitchen,belan,Expense,1.012,2024-10-02
+Saving Bank account 1,Food,Dinner,1 veg noodles + 1 chicken soup + 1 egg fried rice,Expense,3.5512,2024-10-02
+Saving Bank account 1,Food,Grocery,fruits and vegetables,Expense,4.692,2024-10-01
+Saving Bank account 1,Health,Medicine,antibiotics,Expense,3.2568,2024-10-01
+Cash,Food,Grocery,1kg atta,Expense,0.368,2024-10-01
+Saving Bank account 1,Household,Kitchen,Channi + viper+ ghasni,Expense,0.45999999999999996,2024-10-01
+Saving Bank account 1,Food,Dinner,pizza meal,Expense,3.128,2024-10-01
+Saving Bank account 1,Health,Hospital,Doctor Fees,Expense,2.76,2024-10-01
+Saving Bank account 1,Public Provident Fund,,,Transfer-Out,92.0,2024-10-01
+Saving Bank account 1,Money transfer,,,Expense,920.0,2024-10-01
+Cash,Other,,jeevan drop,Expense,0.414,2024-10-11
+Cash,Health,Hospital,Doctor Fees,Expense,1.8399999999999999,2024-10-11
+Saving Bank account 1,Health,Medicine,eye drop maxmoist,Expense,2.3644,2024-10-11
+Cash,Food,Ice cream,chocobar,Expense,0.276,2024-10-10
+Saving Bank account 1,Investment,Mutual fund,,Expense,9.2,2024-10-10
+Saving Bank account 1,Recurring Deposit,,,Expense,9.2,2024-10-10
+Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge wfh,Expense,2.7692,2024-10-09
+Saving Bank account 1,Food,Grocery,cheese cubes(2),Expense,0.276,2024-10-08
+Saving Bank account 1,Other,,OTT Platform 1 subscription,Expense,1.8308,2024-10-08
+Saving Bank account 1,Investment,Mutual fund,,Expense,9.2,2024-10-07
+Cash,Family,medicine,tonic,Expense,1.426,2024-10-05
+Saving Bank account 1,Investment,Mutual fund,,Expense,9.2,2024-10-05
+Saving Bank account 1,Recurring Deposit,,,Expense,9.2,2024-10-05
+Cash,Food,vegetables,gilke,Expense,0.22999999999999998,2024-10-04
+Cash,Food,vegetables,kadhipatta + 2 lemon,Expense,0.092,2024-10-04
+Cash,Food,vegetables,kandyachi paat,Expense,0.0736,2024-10-04
+Cash,Food,vegetables,tomato,Expense,0.276,2024-10-04
+Cash,Food,vegetables,onion 1 kg,Expense,0.22999999999999998,2024-10-04
+Cash,Food,vegetables,val + methi + lady finger,Expense,0.45999999999999996,2024-10-04
+Cash,Food,vegetables,carrets + brinjal + flower,Expense,0.828,2024-10-04
+Cash,Food,snacks,3 chips packets,Expense,0.138,2024-10-04
+Cash,Food,snacks,pav bhaji pav 3 packets (8pcs each),Expense,0.414,2024-10-04
+Cash,Food,fruits,8 bananas,Expense,0.184,2024-10-04
+Cash,Food,Grocery,Colgate max fresh medium,Expense,0.506,2024-10-03
+Cash,Food,chocolate,2 milkybar,Expense,0.184,2024-10-03
+Saving Bank account 1,Investment,Public Provident Fund,,Expense,368.0,2024-10-01
+Saving Bank account 1,Money transfer,,,Expense,92.0,2024-10-01
+Cash,Health,Medicine,mouth fresh,Expense,0.506,2024-10-12
+Cash,Food,snacks,Bombay vada pav,Expense,0.092,2024-10-12
+Cash,Transportation,auto,Permanent Residence to Bandhu prem,Expense,0.368,2024-10-10
+Saving Bank account 1,Investment,RD,RD,Expense,9.2,2024-10-10
+Saving Bank account 1,Investment,LIC,Life Insurance,Expense,103.8312,2024-10-10
+Saving Bank account 1,Investment,Mutual fund,,Expense,9.2,2024-10-10
+Saving Bank account 1,Investment,Mutual fund,,Expense,9.2,2024-10-10
+Cash,Other,,gulal,Expense,0.092,2024-10-09
+Saving Bank account 1,subscription,Netflix,1 month subscription,Expense,1.8308,2024-10-08
+Cash,Food,Eating out,ice cream,Expense,0.414,2024-10-07
+Cash,Transportation,auto,Permanent Residence to hospital,Expense,0.276,2024-10-05
+Saving Bank account 1,Investment,RD,RD,Expense,9.2,2024-10-05
+Saving Bank account 1,Investment,Mutual fund,,Expense,9.2,2024-10-05
+Cash,Festivals,Diwali,firecracker,Expense,0.45999999999999996,2024-10-04
+Cash,Food,Grocery,butter + frozen vatana+ 9 pan,Expense,2.208,2024-10-03
+Saving Bank account 1,Other,,cake + Happy Birthday letters,Expense,4.324,2024-10-03
+Saving Bank account 1,Health,Medicine,medicine,Expense,6.4399999999999995,2024-10-03
+Saving Bank account 1,Bonus,,Diwali gift,Income,13.799999999999999,2024-10-03
+Cash,Grooming,Saloon,cutting + shaving,Expense,0.736,2024-10-02
+Cash,Festivals,Diwali,firecracker,Expense,4.14,2024-10-01
+Cash,Food,fruits,mosambi 1kg,Expense,0.45999999999999996,2024-10-01
+Saving Bank account 1,Investment,Public Provident Fund,,Expense,92.0,2024-10-01
+Saving Bank account 1,Money transfer,,,Expense,92.0,2024-10-01
+Saving Bank account 1,Food,Grocery,coconut,Expense,1.38,2024-10-12
+Cash,Food,Grocery,apple half kg+ mixer repair+flowers,Expense,0.9199999999999999,2024-10-10
+Saving Bank account 1,Investment,RD,,Expense,9.2,2024-10-10
+Saving Bank account 1,Investment,Mutual fund,,Expense,9.2,2024-10-10
+Saving Bank account 1,Investment,Mutual fund,,Expense,9.2,2024-10-10
+Saving Bank account 1,Family,misc,scratch guard ipad,Expense,2.2908,2024-10-09
+Saving Bank account 1,Health,Medicine,,Expense,0.368,2024-10-09
+Saving Bank account 1,Transportation,auto,Permanent Residence to hospital to n fro,Expense,0.736,2024-10-09
+Saving Bank account 1,Food,Grocery,mosambi 1kg+ gavar pav kilo+lemon 3 + kothimbir,Expense,0.828,2024-10-09
+Saving Bank account 1,Beauty,grooming,razor,Expense,1.6008,2024-10-08
+Saving Bank account 1,subscription,Netflix,1 month subscription,Expense,1.8308,2024-10-07
+Saving Bank account 1,Investment,RD,,Expense,9.2,2024-10-05
+Saving Bank account 1,Investment,Mutual fund,,Expense,9.2,2024-10-05
+Cash,Festivals,Navratri,vargini,Expense,1.8399999999999999,2024-10-01
+Saving Bank account 1,Investment,Public Provident Fund,,Expense,92.0,2024-10-01
+Saving Bank account 1,Money transfer,,,Expense,92.0,2024-10-01
+Cash,Food,Grocery,bread,Expense,0.322,2024-10-12
+Cash,Food,Milk,half liter buffalo,Expense,0.322,2024-10-12
+Saving Bank account 1,Food,snacks,vanilla ice cream cups 2,Expense,0.184,2024-10-12
+Cash,Food,Grocery,badishop,Expense,0.644,2024-10-11
+Saving Bank account 1,Food,Milk,half liter buffalo,Expense,0.322,2024-10-11
+Cash,Transportation,auto,meghdoot to plaza,Expense,0.184,2024-10-11
+Saving Bank account 1,Investment,RD,,Expense,9.2,2024-10-10
+Saving Bank account 1,Investment,Mutual fund,,Expense,9.2,2024-10-10
+Cash,Food,Milk,1lit buffalo milk,Expense,0.644,2024-10-09
+Saving Bank account 1,Food,beverage,cold coffee,Expense,0.276,2024-10-08
+Cash,Food,Grocery,bread,Expense,0.184,2024-10-08
+Saving Bank account 1,subscription,Mobile Service Provider,,Expense,2.3092,2024-10-08
+Cash,Food,Eggs,1 dozen,Expense,0.6624,2024-10-07
+Saving Bank account 1,Investment,Mutual fund,,Expense,9.2,2024-10-07
+Saving Bank account 1,Transportation,Travels,Place 6 to Place 2,Expense,5.5062,2024-10-06
+Saving Bank account 1,Investment,RD,,Expense,9.2,2024-10-05
+Saving Bank account 1,Investment,Mutual fund,,Expense,9.2,2024-10-05
+Saving Bank account 1,Transportation,Travels,Place 2 to mum,Expense,6.8999999999999995,2024-10-01
+Saving Bank account 1,subscription,Mobile Service Provider,,Expense,2.3092,2024-10-01
+Saving Bank account 1,Investment,Public Provident Fund,,Expense,92.0,2024-10-01
+Saving Bank account 1,Money transfer,,,Expense,92.0,2024-10-01
+Saving Bank account 1,Investment,LIC,Life Insurance,Expense,103.8312,2024-10-11
+Saving Bank account 1,Investment,RD,,Expense,9.2,2024-10-10
+Saving Bank account 1,Investment,Mutual fund,,Expense,9.2,2024-10-10
+Saving Bank account 1,subscription,Mobile Service Provider,,Expense,2.3092,2024-10-09
+Saving Bank account 1,Investment,Mutual fund,,Expense,9.2,2024-10-07
+Saving Bank account 1,Family,exam fee,PET Psychology,Expense,6.8999999999999995,2024-10-07
+Saving Bank account 1,Investment,RD,,Expense,9.2,2024-10-05
+Saving Bank account 1,Investment,Mutual fund,,Expense,9.2,2024-10-05
+Saving Bank account 1,Family,misc,ipad cover,Expense,2.392,2024-10-04
+Saving Bank account 1,Investment,Public Provident Fund,,Expense,92.0,2024-10-01
+Saving Bank account 1,Money transfer,,,Expense,138.0,2024-10-01
+Saving Bank account 1,Investment,RD,,Expense,9.2,2024-10-12
+Saving Bank account 1,Investment,Mutual fund,Mutual fund C,Expense,9.2,2024-10-12
+Saving Bank account 1,Investment,Mutual fund,Mutual fund B,Expense,9.2,2024-10-07
+Saving Bank account 1,Investment,RD,,Expense,9.2,2024-10-05
+Saving Bank account 1,Investment,Mutual fund,Mutual fund A,Expense,9.2,2024-10-05
+Saving Bank account 1,subscription,Mobile Service Provider,,Expense,2.3092,2024-10-05
+Saving Bank account 1,subscription,Mobile Service Provider,,Expense,2.3092,2024-10-04
+Saving Bank account 1,Family,misc,Family Mobile Service Provider recharge,Expense,23.9108,2024-10-01
+Saving Bank account 1,Investment,Public Provident Fund,,Expense,92.0,2024-10-01
+Saving Bank account 1,Money transfer,,,Expense,138.0,2024-10-01
+Cash,Food,Eggs,,Expense,0.7727999999999999,2024-10-12
+Saving Bank account 1,subscription,Mobile Service Provider,,Expense,2.3092,2024-10-12
+Saving Bank account 1,Investment,RD,,Expense,9.2,2024-10-10
+Saving Bank account 1,Investment,Mutual fund,Mutual fund C,Expense,9.2,2024-10-10
+Saving Bank account 1,Investment,Mutual fund,Mutual fund B,Expense,9.2,2024-10-07
+Saving Bank account 1,Investment,RD,,Expense,9.2,2024-10-05
+Saving Bank account 1,Investment,Mutual fund,Mutual fund A,Expense,9.2,2024-10-05
+Cash,Food,Grocery,biscuits + medicine,Expense,0.6255999999999999,2024-10-05
+Saving Bank account 1,Investment,Public Provident Fund,,Expense,92.0,2024-10-01
+Saving Bank account 1,Money transfer,,,Expense,92.0,2024-10-01
+Cash,Food,Water,1 Jar,Expense,0.22999999999999998,2024-10-01
+Saving Bank account 1,Investment,RD,,Expense,9.2,2024-10-10
+Saving Bank account 1,Investment,Mutual fund,Mutual fund C,Expense,9.2,2024-10-10
+Saving Bank account 1,Investment,Mutual fund,Mutual fund B,Expense,9.2,2024-10-07
+Saving Bank account 1,subscription,Mobile Service Provider,,Expense,2.3092,2024-10-06
+Saving Bank account 1,Investment,RD,,Expense,9.2,2024-10-05
+Saving Bank account 1,Investment,Mutual fund,Mutual fund A,Expense,9.2,2024-10-05
+Saving Bank account 1,subscription,Mobile Service Provider,,Expense,2.3092,2024-10-03
+Cash,Other,,flour mill,Expense,0.22999999999999998,2024-10-02
+Saving Bank account 1,Investment,Public Provident Fund,,Expense,92.0,2024-10-01
+Saving Bank account 1,Money transfer,,,Expense,92.0,2024-10-01
+Saving Bank account 1,Investment,RD,,Expense,9.2,2024-10-12
+Saving Bank account 1,Investment,Mutual fund,Mutual fund C,Expense,9.2,2024-10-12
+Saving Bank account 1,subscription,Mobile Service Provider,,Expense,2.3092,2024-10-11
+Saving Bank account 1,Food,Grocery,,Expense,11.7668,2024-10-11
+Saving Bank account 1,Investment,Mutual fund,Mutual fund B,Expense,9.2,2024-10-07
+Saving Bank account 1,Investment,RD,,Expense,9.2,2024-10-05
+Saving Bank account 1,Investment,Mutual fund,Mutual fund A,Expense,9.2,2024-10-05
+Saving Bank account 1,subscription,OTT Platform,subscription 1 yr,Expense,2.76,2024-10-03
+Saving Bank account 1,subscription,Mobile Service Provider,,Expense,2.3092,2024-10-02
+Cash,Food,beverage,rasna orange,Expense,0.184,2024-10-02
+Cash,Transportation,auto,LB road to Permanent Residence,Expense,0.45999999999999996,2024-10-02
+Cash,Other,,jeevan drop,Expense,0.276,2024-10-02
+Saving Bank account 1,Investment,Public Provident Fund,,Expense,92.0,2024-10-01
+Saving Bank account 1,Money transfer,,,Expense,92.0,2024-10-01
+Cash,Food,Grocery,cheese cubes(2)+ neutralite butter,Expense,0.552,2024-10-11
+Cash,Other,,watch repair,Expense,2.3,2024-10-11
+Cash,Education,School supplies,Gel pens,Expense,0.184,2024-10-11
+Saving Bank account 1,Investment,RD,,Expense,9.2,2024-10-10
+Saving Bank account 1,Investment,Mutual fund,Mutual fund C,Expense,9.2,2024-10-10
+Saving Bank account 1,Investment,Mutual fund,Mutual fund B,Expense,9.2,2024-10-08
+Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge wfh,Expense,2.3092,2024-10-06
+Saving Bank account 1,Investment,RD,,Expense,9.2,2024-10-05
+Saving Bank account 1,Investment,Mutual fund,Mutual fund A,Expense,9.2,2024-10-05
+Saving Bank account 1,Investment,Public Provident Fund,,Expense,92.0,2024-10-02
+Saving Bank account 1,Investment,RD,,Expense,9.2,2024-10-10
+Saving Bank account 1,Investment,Mutual fund,Mutual fund C,Expense,9.2,2024-10-10
+Saving Bank account 1,Investment,Mutual fund,Mutual fund B,Expense,9.2,2024-10-08
+Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge wfh,Expense,2.3092,2024-10-08
+Cash,Food,Grocery,,Expense,1.472,2024-10-07
+Saving Bank account 1,Investment,RD,,Expense,9.2,2024-10-05
+Saving Bank account 1,Investment,Mutual fund,Mutual fund A,Expense,9.2,2024-10-05
+Saving Bank account 1,Investment,Public Provident Fund,,Expense,92.0,2024-10-01
+Cash,Apparel,Footwear,slippers,Expense,1.8399999999999999,2024-10-12
+Saving Bank account 1,Investment,RD,,Expense,9.2,2024-10-11
+Saving Bank account 1,Investment,Mutual fund,Mutual fund C,Expense,9.2,2024-10-11
+Cash,Household,Kitchen,chalk for ants,Expense,0.138,2024-10-10
+Saving Bank account 1,subscription,Mobile Service Provider,Mobile Service Provider recharge wfh,Expense,2.3092,2024-10-09
+Saving Bank account 1,Other,,laptop table,Expense,18.3448,2024-10-08
+Saving Bank account 1,Investment,Mutual fund,Mutual fund B,Expense,9.2,2024-10-07
+Saving Bank account 1,Investment,RD,,Expense,9.2,2024-10-05
+Saving Bank account 1,Investment,Mutual fund,Mutual fund A,Expense,9.2,2024-10-05
+Cash,Food,,cake,Expense,3.2199999999999998,2024-10-05
+Cash,Transportation,auto,grandparents to Permanent Residence,Expense,0.276,2024-10-05
+Cash,Food,,Everest pav bhaji masala,Expense,0.322,2024-10-01
+Saving Bank account 1,Investment,Public Provident Fund,,Expense,92.0,2024-10-01
+Saving Bank account 1,Money transfer,,,Expense,92.0,2024-10-01
+Saving Bank account 1,Food,,Amul butter 100gm(4 pcs),Expense,1.7664,2024-10-01
+Saving Bank account 1,Transportation,auto,within city,Expense,0.45999999999999996,2024-10-12
+Cash,Transportation,auto,station to Permanent Residence,Expense,0.9199999999999999,2024-10-11
+Saving Bank account 1,Investment,Mutual fund,,Expense,9.2,2024-10-10
+Saving Bank account 1,Recurring Deposit,,,Expense,9.2,2024-10-10
+Cash,Other,,flour mill,Expense,0.2576,2024-10-08
+Saving Bank account 1,Investment,Mutual fund,reliance mutual fund,Expense,9.2,2024-10-07
+Saving Bank account 1,Recurring Deposit,,,Expense,9.2,2024-10-05
+Cash,Food,snacks,Cadbury 2 + chips 2,Expense,0.828,2024-10-05
+Cash,Other,,petrol,Expense,1.8399999999999999,2024-10-05
+Saving Bank account 1,Investment,Mutual fund,ICICI prudential,Expense,9.2,2024-10-05
+Cash,Apparel,Footwear,Kolhapuri chappal,Expense,2.9899999999999998,2024-10-02
+Saving Bank account 1,Apparel,Footwear,roadstar black fishermen sandals,Expense,7.1116,2024-10-01
+Cash,Food,Eggs,,Expense,0.7727999999999999,2024-10-01
+Saving Bank account 1,Money transfer,,,Expense,460.0,2024-10-01
+Saving Bank account 1,Public Provident Fund,,,Expense,92.0,2024-10-01
+Saving Bank account 1,Gift,,to Family,Expense,9.4208,2024-10-01
+Cash,Food,Eating out,egg roll,Expense,0.22999999999999998,2024-10-12
+Saving Bank account 1,Recurring Deposit,,,Expense,9.2,2024-10-10
+Saving Bank account 1,Investment,Mutual fund, mutual fund,Expense,9.2,2024-10-10
+Saving Bank account 1,Investment,Mutual fund,reliance mutual fund,Expense,9.2,2024-10-07
+Saving Bank account 1,Other,,Mobile Service Provider recharge wfh,Expense,2.3092,2024-10-07
+Saving Bank account 1,Investment,Mutual fund,ICICI prudential,Expense,9.2,2024-10-05
+Saving Bank account 1,Recurring Deposit,,,Expense,9.2,2024-10-05
+Cash,Food,Dinner,12 eggs,Expense,0.7727999999999999,2024-10-05
+Cash,Public Provident Fund,,,Expense,92.0,2024-10-04
+Cash,Transportation,auto,Permanent Residence to nearby  hospital,Expense,0.368,2024-10-03
+Saving Bank account 1,Money transfer,,,Expense,92.0,2024-10-01
+Cash,Transportation,auto,Locality V to Permanent Residence,Expense,0.644,2024-10-01
+Saving Bank account 1,Recurring Deposit,,,Expense,9.2,2024-10-10
+Saving Bank account 1,Investment,Mutual fund, mutual fund,Expense,9.2,2024-10-10
+Saving Bank account 1,Investment,Mutual fund,reliance mutual fund,Expense,9.2,2024-10-07
+Saving Bank account 1,Gift,,kindle + gift wrap,Expense,73.8668,2024-10-07
+Saving Bank account 1,Investment,Mutual fund,ICICI prudential,Expense,9.2,2024-10-05
+Saving Bank account 1,Recurring Deposit,,,Expense,9.2,2024-10-05
+Saving Bank account 1,Food,beverage,cold coffee,Expense,3.864,2024-10-02
+Saving Bank account 1,Public Provident Fund,,,Expense,92.0,2024-10-01
+Saving Bank account 1,Food,Lunch,chicken lollypop + biryani,Expense,3.4868,2024-10-11
+Saving Bank account 1,Investment,Mutual fund, mutual fund,Expense,9.2,2024-10-10
+Saving Bank account 1,Recurring Deposit,,,Expense,9.2,2024-10-10
+Saving Bank account 1,Investment,Mutual fund,reliance mutual fund,Expense,9.2,2024-10-07
+Saving Bank account 1,Recurring Deposit,,,Expense,9.2,2024-10-05
+Saving Bank account 1,Investment,Mutual fund,ICICI prudential,Expense,9.2,2024-10-05
+Saving Bank account 1,Other,,return deposit,Income,44.16,2024-10-04
+Saving Bank account 1,Public Provident Fund,,,Expense,92.0,2024-10-01
+Saving Bank account 1,Recurring Deposit,,,Expense,9.2,2024-10-10
+Saving Bank account 1,Investment,Mutual fund, mutual fund,Expense,9.2,2024-10-10
+Saving Bank account 1,Investment,Mutual fund,reliance mutual fund,Expense,9.2,2024-10-07
+Saving Bank account 1,Recurring Deposit,,,Expense,9.2,2024-10-05
+Saving Bank account 1,Investment,Mutual fund,ICICI prudential,Expense,9.2,2024-10-05
+Saving Bank account 1,maid,,,Expense,3.0636,2024-10-03
+Saving Bank account 1,Money transfer,,,Expense,92.0,2024-10-02
+Saving Bank account 1,Public Provident Fund,,,Expense,92.0,2024-10-02
+Saving Bank account 1,Rent,,,Expense,23.0,2024-10-02
+Saving Bank account 1,Investment,Mutual fund, mutual fund,Expense,9.2,2024-10-10
+Saving Bank account 1,Recurring Deposit,,,Expense,9.2,2024-10-10
+Saving Bank account 1,Other,,earphones,Expense,4.2228,2024-10-09
+Saving Bank account 1,Investment,Mutual fund,reliance mutual fund,Expense,9.2,2024-10-07
+Saving Bank account 1,Investment,Mutual fund,ICICI prudential,Expense,9.2,2024-10-06
+Saving Bank account 1,Recurring Deposit,,,Expense,9.2,2024-10-06
+Saving Bank account 1,Other,,splitwise settlement,Expense,2.8704,2024-10-02
+Saving Bank account 1,maid,,,Expense,3.0636,2024-10-01
+Saving Bank account 1,Rent,,,Expense,26.0636,2024-10-01
+Saving Bank account 1,Money transfer,,,Expense,92.0,2024-10-01
+Saving Bank account 1,Public Provident Fund,,,Expense,92.0,2024-10-01
+Saving Bank account 1,Investment,Mutual fund, mutual fund,Expense,9.2,2024-10-10
+Saving Bank account 1,Recurring Deposit,,,Expense,9.2,2024-10-10
+Saving Bank account 1,Other,,Tambola,Expense,0.45999999999999996,2024-10-10
+Saving Bank account 1,Investment,Mutual fund,reliance mutual fund,Expense,9.2,2024-10-08
+Saving Bank account 1,Investment,Mutual fund,ICICI prudential,Expense,9.2,2024-10-05
+Saving Bank account 1,Recurring Deposit,,,Expense,9.2,2024-10-05
+Saving Bank account 1,Cook,,,Expense,7.1392,2024-10-01
+Saving Bank account 1,Rent,,,Expense,23.395599999999998,2024-10-01
+Saving Bank account 1,Public Provident Fund,,,Expense,92.0,2024-10-01
+Cash,Food,Milk,milk half shakti,Expense,0.2392,2024-10-12
+Saving Bank account 1,Investment,Mutual fund, mutual fund,Expense,9.2,2024-10-11
+Saving Bank account 1,Recurring Deposit,,,Expense,9.2,2024-10-11
+Cash,Food,Grocery,onions,Expense,0.184,2024-10-11
+Cash,Food,Milk,milk half shakti,Expense,0.2392,2024-10-11
+Cash,Household,Toiletries,sensodyne rapid fire,Expense,1.472,2024-10-10
+Cash,Health,Health,hand sanitizer + surgical gloves,Expense,2.668,2024-10-09
+Cash,Food,Milk,milk half shakti,Expense,0.4784,2024-10-09
+Cash,Food,Grocery,gobi,Expense,0.184,2024-10-09
+Cash,Food,Milk,milk half shakti,Expense,0.2392,2024-10-08
+Saving Bank account 1,Investment,Mutual fund,reliance mutual fund,Expense,9.2,2024-10-07
+Cash,Health,Medicine,Limcee+,Expense,0.644,2024-10-06
+Saving Bank account 1,Investment,Mutual fund,ICICI prudential,Expense,9.2,2024-10-05
+Saving Bank account 1,Recurring Deposit,,,Expense,9.2,2024-10-05
+Cash,Food,Grocery,methi + palak,Expense,0.9199999999999999,2024-10-05
+Cash,Food,Milk,milk half shakti,Expense,0.2392,2024-10-05
+Saving Bank account 1,Public Provident Fund,,April -May 10k contribution,Expense,184.0,2024-10-03
+Saving Bank account 1,Food,Grocery,,Expense,10.8376,2024-10-03
+Cash,Cook,,,Expense,46.0,2024-10-03
+Credit Card,Money transfer,,,Expense,92.0,2024-10-02
+Cash,Food,Milk,milk half shakti,Expense,0.2576,2024-10-02
+Cash,Food,Grocery,dahi,Expense,0.184,2024-10-01
+Cash,Food,Grocery,,Expense,6.4308,2024-10-10
+Cash,Food,Grocery,,Expense,1.4352,2024-10-08
+Saving Bank account 1,Recurring Deposit,,,Expense,9.2,2024-10-07
+Saving Bank account 1,Investment,Mutual fund,reliance mutual fund,Expense,9.2,2024-10-07
+Saving Bank account 1,Investment,Mutual fund,ICICI prudential,Expense,9.2,2024-10-06
+Saving Bank account 1,Money transfer,,,Expense,92.0,2024-10-05
+Cash,Food,Grocery,,Expense,2.6404,2024-10-04
+Credit Card,Food,Grocery,,Expense,8.1788,2024-10-04
+Cash,Other,,cleaning drainage,Expense,2.76,2024-10-04
+Cash,garbage disposal,,,Expense,0.45999999999999996,2024-10-04
+Cash,Cook,,,Expense,46.0,2024-10-02
+Cash,Food,Grocery,toothbrush + biscuits,Expense,0.45999999999999996,2024-10-01
+Credit Card,Health,Hospital,root canal due,Expense,17.48,2024-10-12
+Cash,Food,Tea,,Expense,0.276,2024-10-12
+Saving Bank account 1,Recurring Deposit,,,Expense,9.2,2024-10-11
+Cash,Food,Tea,,Expense,0.0736,2024-10-11
+Saving Bank account 1,Transportation,train,train - ddr to brc cancellation charges,Expense,0.10856,2024-10-10
+Saving Bank account 1,Investment,Mutual fund, mutual fund,Expense,9.2,2024-10-10
+Saving Bank account 1,Transportation,train,train - brc to ddr cancellation charges,Expense,0.10856,2024-10-10
+Cash,Transportation,Train,Place 0 to Bandra,Expense,0.184,2024-10-10
+Cash,Transportation,auto,Current Residence to Place 0,Expense,0.092,2024-10-10
+Cash,Transportation,auto,Bandra to Bandra terminus,Expense,0.184,2024-10-10
+Saving Bank account 1,Other,,Amazon prime,Expense,1.1868,2024-10-09
+Cash,Other,,print out,Expense,0.0552,2024-10-09
+Saving Bank account 1,Investment,Mutual fund,reliance mutual fund,Expense,9.2,2024-10-07
+Saving Bank account 1,Recurring Deposit,,,Expense,9.2,2024-10-07
+Cash,Transportation,auto,B45 to brc,Expense,0.092,2024-10-06
+Cash,Food,beverage,orange juice,Expense,0.22999999999999998,2024-10-06
+Cash,Transportation,auto,to office,Expense,0.092,2024-10-06
+Saving Bank account 1,Investment,Mutual fund,ICICI prudential,Expense,9.2,2024-10-05
+Cash,Beauty,grooming,,Expense,0.368,2024-10-05
+Cash,Food,beverage,mosambi juice,Expense,0.22999999999999998,2024-10-04
+Cash,water (jar /tanker),,water jar,Expense,0.9936,2024-10-03
+Cash,garbage disposal,,,Expense,0.15639999999999998,2024-10-03
+Cash,maid,,,Expense,3.0636,2024-10-03
+Cash,Cook,,,Expense,15.3364,2024-10-03
+Cash,Health,Medicine,painkillers,Expense,0.7544,2024-10-03
+Cash,Health,Hospital,root canal advance,Expense,27.599999999999998,2024-10-03
+Cash,Food,Tea,,Expense,0.276,2024-10-02
+Saving Bank account 1,Money transfer,,,Expense,92.0,2024-10-02
+Saving Bank account 1,Rent,,,Expense,26.0636,2024-10-02
+Cash,Health,Medicine,painkillers,Expense,2.0792,2024-10-02
+Cash,Health,Hospital,dentist check-up,Expense,2.76,2024-10-02
+Cash,Food,Lunch,canteen lunch,Expense,0.22999999999999998,2024-10-02
+Cash,Transportation,auto,to office,Expense,0.092,2024-10-02
+Cash,Food,breakfast,2 uttapam,Expense,0.368,2024-10-02
+Cash,Food,fruits,bananas,Expense,0.184,2024-10-01
+Cash,Food,Dinner,At restaurant,Expense,0.736,2024-10-01
+Saving Bank account 1,Food,Lunch,chicken manchow soup,Expense,0.8096,2024-10-01
+Cash,Food,Tea,,Expense,0.0552,2024-10-01
+Cash,Food,,Kurkure,Expense,0.092,2024-10-12
+Cash,Food,,tea,Expense,0.1104,2024-10-12
+Cash,Food,,tea,Expense,0.092,2024-10-12
+Cash,Food,,paneer 150 gm,Expense,0.4968,2024-10-11
+Saving Bank account 1,Food,,bread pakoda + tea,Expense,0.2392,2024-10-11
+Cash,Food,,grocery,Expense,0.552,2024-10-10
+Saving Bank account 1,Food,,tea + kachuri,Expense,0.1656,2024-10-10
+Cash,Food,,tea,Expense,0.0552,2024-10-10
+Cash,Food,,paneer,Expense,0.322,2024-10-09
+Cash,Food,,farsan + khari sing,Expense,1.38,2024-10-09
+Saving Bank account 1,Transportation,,train - brc to mmct,Expense,1.6192,2024-10-09
+Saving Bank account 1,Food,,egg fried rice,Expense,0.7912,2024-10-08
+Saving Bank account 1,Other,,deo and amul milk,Expense,3.4132,2024-10-08
+Saving Bank account 1,Other,,Internet renewal,Expense,31.28,2024-10-08
+Cash,Food,,tea + biscuits,Expense,0.276,2024-10-08
+Cash,Food,,tea,Expense,0.0552,2024-10-07
+Cash,Food,,water jar,Expense,3.4499999999999997,2024-10-05
+Cash,Food,,bhel,Expense,0.368,2024-10-05
+Cash,Food,,snacks,Expense,0.19319999999999998,2024-10-05
+Credit Card,Food,,grocery,Expense,10.8376,2024-10-04
+Cash,Food,,tea,Expense,0.276,2024-10-04
+Cash,Food,,milk half shakti,Expense,0.2392,2024-10-04
+Cash,Food,,12 eggs,Expense,0.644,2024-10-03
+Cash,Food,,tea,Expense,0.092,2024-10-03
+Cash,Food,,grocery,Expense,0.9843999999999999,2024-10-03
+Cash,Other,,shoe repair,Expense,0.9199999999999999,2024-10-03
+Cash,Food,,chana chat + kachori,Expense,0.2484,2024-10-03
+Cash,Other,,garbage collector,Expense,0.45999999999999996,2024-10-03
+Saving Bank account 1,Other,,Permanent Residence money transfer,Expense,92.0,2024-10-02
+Cash,Food,,milk half shakti,Expense,0.2392,2024-10-02
+Cash,Food,,5 eggs,Expense,0.276,2024-10-02
+Cash,Food,,milk half shakti,Expense,0.2392,2024-10-01
+Cash,Household,,electricity bill,Expense,7.2128,2024-10-01
+Cash,Apparel,,undergarments,Expense,2.2816,2024-10-01
+Cash,Transportation,,bus - Chinchwad to kala,Expense,1.6099999999999999,2024-10-12
+Cash,Transportation,,ola auto - to Chinchwad transport bus stop,Expense,0.5612,2024-10-12
+Cash,Beauty,,shaving,Expense,0.45999999999999996,2024-10-11
+Cash,Transportation,,ola auto - wakad to GG skies,Expense,1.564,2024-10-11
+Cash,Transportation,,auto -hospital to bridge,Expense,0.45999999999999996,2024-10-10
+Saving Bank account 1,Transportation,,travels - brc to pune,Expense,5.9799999999999995,2024-10-10
+Cash,Other,,garbage collector,Expense,0.45999999999999996,2024-10-10
+Cash,Food,,tea,Expense,0.184,2024-10-10
+Cash,Food,,sprout chat,Expense,0.184,2024-10-09
+Cash,Other,,participation fee - corporate cricket league,Expense,5.9799999999999995,2024-10-09
+Cash,Food,,tea+ bourbon,Expense,0.184,2024-10-08
+Cash,Food,,sprout chat+tea+guava drink,Expense,0.2852,2024-10-07
+Cash,Food,,sprout chat,Expense,0.138,2024-10-06
+Cash,Food,,tea,Expense,0.138,2024-10-06
+Cash,Other,,rent,Expense,26.0636,2024-10-05
+Cash,Other,,maid,Expense,3.0636,2024-10-05
+Saving Bank account 1,Food,,dinner,Expense,1.242,2024-10-05
+Cash,Other,,cook,Expense,20.7,2024-10-05
+Cash,Food,,shev,Expense,0.322,2024-10-04
+Cash,Food,,tea,Expense,0.184,2024-10-04
+Cash,Food,,rice,Expense,1.6099999999999999,2024-10-04
+Saving Bank account 1,Other,,Public Provident Fund,Expense,92.0,2024-10-04
+Saving Bank account 1,Other,,cricket expenses,Expense,2.0516,2024-10-03
+Cash,Food,,water jar,Expense,3.2199999999999998,2024-10-03
+Cash,Food,,milk half gold + 2 packs bourbon biscuits,Expense,0.4508,2024-10-03
+Cash,Food,,grocery,Expense,0.6072,2024-10-02
+Saving Bank account 1,Other,,Permanent Residence money transfer,Expense,92.0,2024-10-02
+Cash,Food,,4 eggs,Expense,0.2576,2024-10-02
+Cash,Food,,tea,Expense,0.092,2024-10-02
+Credit Card,Food,,bendys chicken biryani,Expense,3.6799999999999997,2024-10-01
+Cash,Transportation,,share jeep - Place T top to base,Expense,0.184,2024-10-01
+Cash,Transportation,,share jeep - Place T to brc,Expense,0.552,2024-10-01
+Cash,Culture,, monument,Expense,0.368,2024-10-01
+Cash,Food,,Temple Prasad,Expense,1.8399999999999999,2024-10-01
+Cash,Transportation,,ropeway Place T to and fro,Expense,1.3064,2024-10-01
+Cash,Transportation,,share jeep - Place T base to top,Expense,0.184,2024-10-01
+Cash,Transportation,,share auto - Place H to Place T base,Expense,0.184,2024-10-01
+Cash,Transportation,,bus - brc to Place H,Expense,0.276,2024-10-01
+Cash,Food,,tea,Expense,0.092,2024-10-01
+Cash,Transportation,,share auto - hospital to brc station,Expense,0.092,2024-10-01
