@@ -8,7 +8,7 @@ Sheikh Mohiddin
 
 Francis Madden
 
-Xiaoyin |(Connie) Li
+Xiaoyin (Connie) Li
 
 Ying Ying Lim
 
