@@ -16,7 +16,7 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
   });
   
   async function sendQueryToOnDemand(query) {
-    const apiKey = 'gItLAYFOlta67dGuktAlhNghlqKlLoOx'; // API Key
+    const apiKey = 'CCM0sjeIkawWGwYfyRCDlzCPl77GDNld'; // API Key
     const sessionId = await getSessionId(apiKey);
     if (!sessionId) {
       throw new Error('Failed to create or retrieve session ID.');
@@ -26,7 +26,7 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
     const payload = {
       endpointId: 'predefined-openai-gpt4o',
       query: query,
-      pluginIds: [],
+      pluginIds: ['plugin-1731166483'],
       responseMode: 'sync'
     };
   
