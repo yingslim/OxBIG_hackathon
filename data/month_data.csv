@@ -1,9 +1,9 @@
 Mode,Category,Subcategory,Note,Income/Expense,Amount(Pounds),date
-Cash,Apparel,Shoes,Nike,Expense,36.8,2018-08-19
+Cash,Apparel,Shoes,Nike,Expense,368.0,2018-08-19
 Cash,Apparel,Clothes,Pants,Expense,18.4,2018-08-19
 Saving Bank account 1,subscription,Netflix,1 month subscription,Expense,1.8308,2018-08-19
 Saving Bank account 1,Small Cap fund 2,,,Transfer-Out,46.0,2018-08-13
-Cash,Apparel,Shoes,Nike,Expense,46.0,2018-08-18
+Cash,Apparel,Shoes,Nike,Expense,460.0,2018-08-18
 Saving Bank account 1,Small cap fund 1,,,Transfer-Out,46.0,2018-08-13
 Credit Card,subscription,Mobile Service Provider,Data booster pack,Expense,6.1364,2018-08-12
 Saving Bank account 1,Food,Lunch,Home Food Delivery,Expense,5.9799999999999995,2018-08-11
@@ -13,14 +13,14 @@ Cash,Food,Milk,Half lit  milk,Expense,0.3312,2018-08-11
 Cash,Food,Milk,Half lit  milk,Expense,0.3312,2018-08-10
 Cash,Family,Pocket money,,Expense,0.368,2018-08-08
 Cash,Apparel,Clothes,Skirt,Expense,9.2,2018-08-08
-Cash,Apparel,Shoes,Nike,Expense,36.8,2018-08-08
+Cash,Apparel,Shoes,Nike,Expense,368.0,2018-08-08
 Cash,Food,Milk,Half lit  milk,Expense,0.3404,2018-08-07
 Saving Bank account 1,Equity Mutual Fund E,,,Transfer-Out,9.2,2018-08-07
 Cash,Food,snacks,Amul butter,Expense,0.506,2018-08-06
 Cash,Apparel,Laundry,11 clothes ironing,Expense,0.7084,2018-08-05
 Cash,Food,snacks,Chinese Bhel,Expense,0.276,2018-08-05
 Cash,Food,snacks,Shev Puri,Expense,0.368,2018-08-05
-Cash,Apparel,Shoes,Nike,Expense,27.599999999999998,2018-08-05
+Cash,Apparel,Shoes,Nike,Expense,276.0,2018-08-05
 Cash,Food,snacks,2 kachori,Expense,0.2208,2018-08-05
 Saving Bank account 1,Food,Milk,Half lit  milk,Expense,0.3312,2018-08-05
 Saving Bank account 1,Food,breakfast,Bread,Expense,0.1656,2018-08-05
