@@ -1,4 +1,4 @@
-# OxBIG_hackathon - CompulseControl
+# OxBIG Hackathon - CompulseControl
 We created a Financial App targeted at compulsive spenders. CompulseControl (CC) helps to reign in reckless expenditure by bringing spending history and budget goals into context for the consumer. 
 
 <p align="center">
@@ -80,6 +80,15 @@ Xiaoyin (Connie) Li
     ```bash
     bash run.sh
     ```
+
+Note: Run the backend servers before using it on chrome. 
+
+## Final Product
+
+<p align="center">
+  <img src="assets\compulse_control_part1.png" alt="Compulse Control 1" width="45%" />
+  <img src="assets\compulse_control_part2.png" alt="Compulse Control 2" width="45%" />
+</p>
 
 ## FAQs
 - If the extension cannot run due to a '__pycache__' error, please delete the pycache folder because it generates upon running for the first time.
