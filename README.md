@@ -80,3 +80,8 @@ Xiaoyin (Connie) Li
     ```bash
     bash run.sh
     ```
+
+## FAQs
+- If the extension cannot run due to a '__pycache__' error, please delete the pycache folder because it generates upon running for the first time.
+
+- If the chatbot is not responding, wait a bit before sending another request. It is possible the backend socket is still waiting to connect to the server and you entered a query too quickly 
