@@ -74,3 +74,9 @@ Xiaoyin (Connie) Li
     ```bash
     chmod +x run.sh
     ```
+
+3. To run the backend servers:
+
+    ```bash
+    bash run.sh
+    ```
