@@ -833,3 +833,79 @@ These insights are designed to support you in making decisions that align with y
    - Consider alternatives for high apparel expenses. For example, explore more affordable clothing options or revisit your needs before purchasing more shoes.
 
 These insights are designed to support you in making decisions that align with your financial goals. - websocket - websocket_endpoint
+2024-11-10 12:57:08,573 - websocket - INFO - User message: {"message":"Hello from background.js"} - websocket - websocket_endpoint
+2024-11-10 12:57:21,680 - chatbot - INFO - chat: User message: "You are an intelligent financial assistant embedded designed to support users in making mindful spending decisions. When users approach the checkout on e-commerce sites, you use behavioral insights to help them reflect on their current spending patterns. You should generate messages based on the following principles, using data like weekly/monthly budget limits, recent category-specific spending, and typical spending behaviors. Messages should be supportive, not restrictive, and framed to encourage reflection rather than enforce rules.
+
+Message Guidelines:
+Budget Reminders:
+
+If the user is near or at their budget limit for a category, remind them with an encouraging tone:
+“You have £50 left in your shopping budget this week. Consider holding off on this purchase to stay within your limit.”
+Pattern Awareness:
+
+For spikes in recent spending, provide gentle, context-based suggestions:
+“This week’s spending trend shows a spike in dining out. Could reallocating £30 from dining to savings help keep you on track?”
+Alternative Options:
+
+When applicable, suggest alternative actions to reduce current spending or redirect funds:
+“Your dining out expenses have been high lately. Would you like suggestions for affordable meal options to help save this month?”
+{"message":"Hello from background.js"}, Chatbot response: Based on your recent spending patterns, here are some insights and suggestions to help you make mindful financial decisions:
+
+1. **Budget Reminder**: It seems like there has been significant spending in the apparel category, particularly on Nike shoes with expenses of £368 and £460 on two separate occasions. You might want to review your budget for apparel to ensure it aligns with your financial goals.
+
+2. **Pattern Awareness**: There has been a notable spike in expenses for dining and grocery items. This includes purchases like chips, bread, and dining out. You could consider reallocating some of this spending towards savings or other categories to balance your budget.
+
+3. **Alternative Options**: Your dining out expenses are noticeable. Would you like some suggestions for affordable meal options or recipes that could help you save this month?
+
+These reflections are intended to support you in maintaining a healthy financial balance while still enjoying your spending habits. - chatbot - chat_with_bot
+2024-11-10 12:57:21,707 - websocket - INFO - Assistant: Based on your recent spending patterns, here are some insights and suggestions to help you make mindful financial decisions:
+
+1. **Budget Reminder**: It seems like there has been significant spending in the apparel category, particularly on Nike shoes with expenses of £368 and £460 on two separate occasions. You might want to review your budget for apparel to ensure it aligns with your financial goals.
+
+2. **Pattern Awareness**: There has been a notable spike in expenses for dining and grocery items. This includes purchases like chips, bread, and dining out. You could consider reallocating some of this spending towards savings or other categories to balance your budget.
+
+3. **Alternative Options**: Your dining out expenses are noticeable. Would you like some suggestions for affordable meal options or recipes that could help you save this month?
+
+These reflections are intended to support you in maintaining a healthy financial balance while still enjoying your spending habits. - websocket - websocket_endpoint
+2024-11-10 12:57:24,327 - websocket - INFO - User message: [object HTMLInputElement] - websocket - websocket_endpoint
+2024-11-10 12:57:35,902 - chatbot - INFO - chat: User message: "You are an intelligent financial assistant embedded designed to support users in making mindful spending decisions. When users approach the checkout on e-commerce sites, you use behavioral insights to help them reflect on their current spending patterns. You should generate messages based on the following principles, using data like weekly/monthly budget limits, recent category-specific spending, and typical spending behaviors. Messages should be supportive, not restrictive, and framed to encourage reflection rather than enforce rules.
+
+Message Guidelines:
+Budget Reminders:
+
+If the user is near or at their budget limit for a category, remind them with an encouraging tone:
+“You have £50 left in your shopping budget this week. Consider holding off on this purchase to stay within your limit.”
+Pattern Awareness:
+
+For spikes in recent spending, provide gentle, context-based suggestions:
+“This week’s spending trend shows a spike in dining out. Could reallocating £30 from dining to savings help keep you on track?”
+Alternative Options:
+
+When applicable, suggest alternative actions to reduce current spending or redirect funds:
+“Your dining out expenses have been high lately. Would you like suggestions for affordable meal options to help save this month?”
+[object HTMLInputElement], Chatbot response: Based on the data provided, here are some suggestions for mindful spending:
+
+1. **Budget Reminders:**
+   - Apparel Spending: There have been significant expenses on shoes, particularly a Nike purchase for £368 and another for £460. If you have a budget set for apparel, consider reviewing it to ensure these purchases align with your spending plan.
+
+2. **Pattern Awareness:**
+   - If your dining or grocery spending is higher than usual, it might be beneficial to consider reallocating a small amount, say £30, from dining out to savings to better manage your monthly expenses.
+
+3. **Alternative Options:**
+   - Given the high expenditure on apparel, you might want to explore affordable fashion alternatives or consider delaying further apparel purchases until next month.
+   - For grocery expenses, there was a small expenditure on items like chips and bread. Planning meals around bulk buys or home-cooked meals might help in reducing costs further.
+
+These suggestions are aimed to help you reflect on your spending without imposing restrictions, ensuring you remain within your financial goals. - chatbot - chat_with_bot
+2024-11-10 12:57:35,915 - websocket - INFO - Assistant: Based on the data provided, here are some suggestions for mindful spending:
+
+1. **Budget Reminders:**
+   - Apparel Spending: There have been significant expenses on shoes, particularly a Nike purchase for £368 and another for £460. If you have a budget set for apparel, consider reviewing it to ensure these purchases align with your spending plan.
+
+2. **Pattern Awareness:**
+   - If your dining or grocery spending is higher than usual, it might be beneficial to consider reallocating a small amount, say £30, from dining out to savings to better manage your monthly expenses.
+
+3. **Alternative Options:**
+   - Given the high expenditure on apparel, you might want to explore affordable fashion alternatives or consider delaying further apparel purchases until next month.
+   - For grocery expenses, there was a small expenditure on items like chips and bread. Planning meals around bulk buys or home-cooked meals might help in reducing costs further.
+
+These suggestions are aimed to help you reflect on your spending without imposing restrictions, ensuring you remain within your financial goals. - websocket - websocket_endpoint
