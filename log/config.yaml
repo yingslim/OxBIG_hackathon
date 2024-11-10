@@ -17,7 +17,7 @@ handlers:
     class: logging.FileHandler
     formatter: detailed
     level: DEBUG
-    filename: be_logs.log
+    filename: ./log/be.log
 
 loggers:
   chatbot:
@@ -25,7 +25,7 @@ loggers:
     handlers: [console, file]
     propagate: no
 
-  webclient:
+  websocket:
     level: DEBUG
     handlers: [console, file]
     propagate: no

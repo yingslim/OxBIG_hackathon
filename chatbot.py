@@ -7,9 +7,10 @@ from config.settings import DEFAULT_SYSTEM_PROMPT, CHROME_EXTENSION_ID, PLUGGING
 import logging
 import yaml
 import logging.config
+import time
 
 # Load the YAML logging configuration
-with open("logging_config.yaml", "r") as f:
+with open("./log/config.yaml", "r") as f:
     config = yaml.safe_load(f)
     logging.config.dictConfig(config)
 
@@ -19,9 +20,6 @@ app = FastAPI()
 # Logger for this FastAPI app
 logger = logging.getLogger("chatbot")
 
-
-# Create FastAPI instance
-app = FastAPI()
 
 # Define Pydantic models
 class ChatRequest(BaseModel):
@@ -50,6 +48,9 @@ app.add_middleware(
 system_prompt = DEFAULT_SYSTEM_PROMPT
 plugin_ids = PLUGGING_ID
 
+# Create FastAPI instance
+app = FastAPI()
+
 
 # API endpoint to read root
 @app.get("/")
@@ -62,15 +63,17 @@ async def read_root():
 async def start_session():
     session_id = await create_chat_session()
     if not session_id:
+        logger.error("start_session: Failed to create a session.")
         return {"error": "Failed to create a session."}
     return {"session_id": session_id}
 
 
-# API endpoint to send chat messages
+# API endpoint to send chat messages to OnDemand
 @app.post("/chat", response_model=ChatResponse)
 async def chat_with_bot(chat_request: ChatRequest):
     user_message = chat_request.message
     if not user_message.strip():
+        logger.error("chat: Invalid message.")
         return {"response": "Please enter a valid message."}
 
     # Combine system prompt with user message
@@ -78,15 +81,10 @@ async def chat_with_bot(chat_request: ChatRequest):
     session_id = await create_chat_session()
 
     if not session_id:
+        logger.error("chat: Unable to create a session.")
         return {"response": "Failed to create a session."}
 
     # Submit query and get chatbot response
     response = await submit_query(session_id, full_query, plugin_ids)
-
+    logger.info(f"chat: User message: {user_message}, Chatbot response: {response}")
     return {"response": response}
-
-
-# Health check to confirm server is running
-@app.get("/health")
-async def health_check():
-    return {"status": "OK"}

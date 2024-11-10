@@ -1,13 +1,25 @@
 from fastapi import FastAPI, WebSocket, WebSocketDisconnect
-from session.session import create_chat_session, submit_query
+from session.session import create_chat_session
 from config.settings import DEFAULT_SYSTEM_PROMPT, PLUGGING_ID, HOSTNAME, CHAT_PORT
 from typing import List
 import requests
-
 from fastapi.middleware.cors import CORSMiddleware
+import logging
+import yaml
+import logging.config
+import time
 
+# Load the YAML logging configuration
+with open("./log/config.yaml", "r") as f:
+    config = yaml.safe_load(f)
+    logging.config.dictConfig(config)
 
+# Create the FastAPI application
 app = FastAPI()
+
+# Logger for this FastAPI app
+logger = logging.getLogger("websocket")
+
 
 app.add_middleware(
     CORSMiddleware,
@@ -31,6 +43,7 @@ async def websocket_endpoint(websocket: WebSocket):
     # Create a new chat session when a user connects
     session_id = await create_chat_session()
     if not session_id:
+        logger.error("Error creating session.")
         await websocket.send_text("Error creating session.")
         await websocket.close()
         return
@@ -46,8 +59,10 @@ async def websocket_endpoint(websocket: WebSocket):
         while True:
             # Wait for the user message
             user_message = await websocket.receive_text()
+            logger.info(f"User message: {user_message}")
 
             if user_message.strip().lower() == "exit":
+                logger.info("User exited the chat.")
                 await websocket.send_text("Exiting the chatbot.")
                 break
 
@@ -62,14 +77,15 @@ async def websocket_endpoint(websocket: WebSocket):
             # Headers for the request
             headers = {"Content-Type": "application/json"}
 
-            # Make the POST request
+            # Make the POST request to chatbot API
             response = requests.post(url, headers=headers, json=payload)
+
             if response.status_code == 200:
                 data = response.json()
                 answer = data["response"]
-                print(f"\nAssistant: {answer}")
+                logger.info(f"Assistant: {answer}")
             else:
-                print("Failed to get response.")
+                logger.error("Failed to get response.")
                 answer = "Error: No response from model."
 
             # Send the response back to the user
@@ -78,9 +94,10 @@ async def websocket_endpoint(websocket: WebSocket):
     except WebSocketDisconnect:
         # Handle client disconnection
         del active_sessions[session_id]
-        print(f"Session {session_id} disconnected")
+        logger.info(f"Session {session_id} disconnected")
 
 
 @app.get("/")
 async def get():
+    logger.info("Root path accessed.")
     return {"message": "Chatbot server is running."}
