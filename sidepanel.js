@@ -1,3 +1,14 @@
+// Create a WebSocket connection to the FastAPI WebSocket endpoint
+const socket = new WebSocket('ws://localhost:8000/ws/chat');
+socket.onmessage = function(e){ console.log(e.data); };
+socket.onopen = () => socket.send('hello');
+
+// This runs when the WebSocket connection is opened
+socket.onopen = () => {
+console.log('WebSocket connection established');
+};
+
+
 document.addEventListener('DOMContentLoaded', function() {
     const userInput = document.getElementById('user-input');
     const sendButton = document.getElementById('send-button');
@@ -6,10 +17,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
     sendButton.addEventListener('click', sendMessage);
     userInput.addEventListener('keypress', function(e) {
-        if (e.key === 'Enter') {
+        if (e.key === 'Enter') 
             sendMessage();
         }
-    });
+    );
 
     // Function to update the question dynamically
     function updateQuestion(product) {
@@ -20,7 +31,10 @@ document.addEventListener('DOMContentLoaded', function() {
         const message = userInput.value.trim();
         if (message) {
             appendMessage('You', message);
+            socket.send(message);
+            console.log(message);
             userInput.value = '';
+            console.log('Message Sent');
         }
     }
 
@@ -51,15 +65,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 
-    // Create a WebSocket connection to the FastAPI WebSocket endpoint
-    const socket = new WebSocket('ws://localhost:8000/ws/chat');
-    socket.onmessage = function(e){ console.log(e.data); };
-    socket.onopen = () => socket.send('hello');
-
-    // This runs when the WebSocket connection is opened
-    socket.onopen = () => {
-    console.log('WebSocket connection established');
-    };
+    
 
     // This runs when the WebSocket receives a message from the server
     socket.onmessage = (event) => {
@@ -84,12 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Send query when the user clicks the send button
     document.getElementById('send-button').addEventListener('click', async () => {
-
-        // Send the query to the WebSocket server
-        socket.send(userInput);
         sendMessage();
-
-        console.log('Message Sent');
     });
 });
 

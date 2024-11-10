@@ -1638,3 +1638,350 @@ These insights aim to encourage reflection on spending patterns, helping maintai
 
 These insights aim to encourage reflection on spending patterns, helping maintain financial wellness. - websocket - websocket_endpoint
 2024-11-10 13:34:43,354 - websocket - INFO - Session 6730b649e93cb32e4e56d1a2 disconnected - websocket - websocket_endpoint
+2024-11-10 13:59:11,473 - websocket - INFO - Session 6730bc2e80617dba5611ffa6 disconnected - websocket - websocket_endpoint
+2024-11-10 13:59:30,571 - websocket - INFO - Session 6730bc33fa4e106eda36525d disconnected - websocket - websocket_endpoint
+2024-11-10 13:59:54,910 - websocket - INFO - User message: [object HTMLInputElement] - websocket - websocket_endpoint
+2024-11-10 14:00:07,927 - chatbot - INFO - chat: User message: "You are an intelligent financial assistant embedded designed to support users in making mindful spending decisions. When users approach the checkout on e-commerce sites, you use behavioral insights to help them reflect on their current spending patterns. You should generate messages based on the following principles, using data like weekly/monthly budget limits, recent category-specific spending, and typical spending behaviors. Messages should be supportive, not restrictive, and framed to encourage reflection rather than enforce rules.
+
+Message Guidelines:
+Budget Reminders:
+
+If the user is near or at their budget limit for a category, remind them with an encouraging tone:
+“You have £50 left in your shopping budget this week. Consider holding off on this purchase to stay within your limit.”
+Pattern Awareness:
+
+For spikes in recent spending, provide gentle, context-based suggestions:
+“This week’s spending trend shows a spike in dining out. Could reallocating £30 from dining to savings help keep you on track?”
+Alternative Options:
+
+When applicable, suggest alternative actions to reduce current spending or redirect funds:
+“Your dining out expenses have been high lately. Would you like suggestions for affordable meal options to help save this month?”
+[object HTMLInputElement], Chatbot response: Based on your recent spending data, here are some insights and suggestions:
+
+1. **Budget Reminders:** 
+   - It appears you've spent a significant amount on apparel this month, with notable expenses on items like Nike shoes (£368 and £460) and pants. If you're aiming to stay within your clothing budget, consider holding off on further apparel purchases.
+
+2. **Pattern Awareness:**
+   - There's a noticeable spike in spending on subscriptions such as Netflix and mobile services. If managing subscriptions is part of your financial goals, you might want to review these to ensure they align with your needs.
+
+3. **Alternative Options:**
+   - Dining and grocery expenses seem minimal, which is great for maintaining a balanced budget. If you're looking for more savings opportunities, consider preparing more meals at home to further reduce dining costs.
+
+Remember, these insights are meant to help you reflect on your spending patterns and make informed decisions. - chatbot - chat_with_bot
+2024-11-10 14:00:07,930 - websocket - INFO - Assistant: Based on your recent spending data, here are some insights and suggestions:
+
+1. **Budget Reminders:** 
+   - It appears you've spent a significant amount on apparel this month, with notable expenses on items like Nike shoes (£368 and £460) and pants. If you're aiming to stay within your clothing budget, consider holding off on further apparel purchases.
+
+2. **Pattern Awareness:**
+   - There's a noticeable spike in spending on subscriptions such as Netflix and mobile services. If managing subscriptions is part of your financial goals, you might want to review these to ensure they align with your needs.
+
+3. **Alternative Options:**
+   - Dining and grocery expenses seem minimal, which is great for maintaining a balanced budget. If you're looking for more savings opportunities, consider preparing more meals at home to further reduce dining costs.
+
+Remember, these insights are meant to help you reflect on your spending patterns and make informed decisions. - websocket - websocket_endpoint
+2024-11-10 14:00:32,106 - websocket - INFO - Session 6730bc4680617dba5611ffb5 disconnected - websocket - websocket_endpoint
+2024-11-10 14:00:32,990 - websocket - INFO - User message: {"message":"Hello from background.js"} - websocket - websocket_endpoint
+2024-11-10 14:00:52,871 - chatbot - INFO - chat: User message: "You are an intelligent financial assistant embedded designed to support users in making mindful spending decisions. When users approach the checkout on e-commerce sites, you use behavioral insights to help them reflect on their current spending patterns. You should generate messages based on the following principles, using data like weekly/monthly budget limits, recent category-specific spending, and typical spending behaviors. Messages should be supportive, not restrictive, and framed to encourage reflection rather than enforce rules.
+
+Message Guidelines:
+Budget Reminders:
+
+If the user is near or at their budget limit for a category, remind them with an encouraging tone:
+“You have £50 left in your shopping budget this week. Consider holding off on this purchase to stay within your limit.”
+Pattern Awareness:
+
+For spikes in recent spending, provide gentle, context-based suggestions:
+“This week’s spending trend shows a spike in dining out. Could reallocating £30 from dining to savings help keep you on track?”
+Alternative Options:
+
+When applicable, suggest alternative actions to reduce current spending or redirect funds:
+“Your dining out expenses have been high lately. Would you like suggestions for affordable meal options to help save this month?”
+{"message":"Hello from background.js"}, Chatbot response: Based on the transaction data provided, here are some spending insights and suggestions:
+
+1. **Budget Reminders:**
+   - **Apparel Spending:** You spent £368 on Nike shoes on 2024-10-19 and £460 on another pair on 2024-10-18. Consider reviewing your budget for apparel to ensure you stay within your planned limits.
+
+2. **Pattern Awareness:**
+   - **Grocery Spending:** There are multiple small expenses on groceries, such as £0.414 for chips and bread on 2024-10-11, and £1.472 for fruits on 2024-10-10. If these small purchases are adding up, you might consider consolidating your grocery shopping to a single trip to manage costs better.
+
+3. **Alternative Options:**
+   - **Dining Out:** Since there's a spike in expenses related to dining (e.g., £0.414 for breakfast on 2024-10-07, £0.23 for dinner on 2024-10-06, and £3.036 for lunch on 2024-10-06), consider preparing meals at home to save money. Would you like some affordable recipe suggestions?
+
+These insights are designed to help you reflect on your spending patterns and encourage mindful decisions. - chatbot - chat_with_bot
+2024-11-10 14:00:52,875 - websocket - INFO - Assistant: Based on the transaction data provided, here are some spending insights and suggestions:
+
+1. **Budget Reminders:**
+   - **Apparel Spending:** You spent £368 on Nike shoes on 2024-10-19 and £460 on another pair on 2024-10-18. Consider reviewing your budget for apparel to ensure you stay within your planned limits.
+
+2. **Pattern Awareness:**
+   - **Grocery Spending:** There are multiple small expenses on groceries, such as £0.414 for chips and bread on 2024-10-11, and £1.472 for fruits on 2024-10-10. If these small purchases are adding up, you might consider consolidating your grocery shopping to a single trip to manage costs better.
+
+3. **Alternative Options:**
+   - **Dining Out:** Since there's a spike in expenses related to dining (e.g., £0.414 for breakfast on 2024-10-07, £0.23 for dinner on 2024-10-06, and £3.036 for lunch on 2024-10-06), consider preparing meals at home to save money. Would you like some affordable recipe suggestions?
+
+These insights are designed to help you reflect on your spending patterns and encourage mindful decisions. - websocket - websocket_endpoint
+2024-11-10 14:00:56,794 - websocket - INFO - Session 6730bc8180617dba5611ffdf disconnected - websocket - websocket_endpoint
+2024-11-10 14:00:56,807 - websocket - INFO - Session 6730bc9680617dba5611ffeb disconnected - websocket - websocket_endpoint
+2024-11-10 14:00:57,903 - websocket - INFO - User message: {"message":"Hello from background.js"} - websocket - websocket_endpoint
+2024-11-10 14:01:14,028 - chatbot - INFO - chat: User message: "You are an intelligent financial assistant embedded designed to support users in making mindful spending decisions. When users approach the checkout on e-commerce sites, you use behavioral insights to help them reflect on their current spending patterns. You should generate messages based on the following principles, using data like weekly/monthly budget limits, recent category-specific spending, and typical spending behaviors. Messages should be supportive, not restrictive, and framed to encourage reflection rather than enforce rules.
+
+Message Guidelines:
+Budget Reminders:
+
+If the user is near or at their budget limit for a category, remind them with an encouraging tone:
+“You have £50 left in your shopping budget this week. Consider holding off on this purchase to stay within your limit.”
+Pattern Awareness:
+
+For spikes in recent spending, provide gentle, context-based suggestions:
+“This week’s spending trend shows a spike in dining out. Could reallocating £30 from dining to savings help keep you on track?”
+Alternative Options:
+
+When applicable, suggest alternative actions to reduce current spending or redirect funds:
+“Your dining out expenses have been high lately. Would you like suggestions for affordable meal options to help save this month?”
+{"message":"Hello from background.js"}, Chatbot response: Based on the provided transaction data, here are some tailored financial insights and suggestions:
+
+1. **Budget Reminder**:
+   - Apparel Category: You have spent £368 and £460 on Nike shoes on 2024-10-19 and 2024-10-18, respectively, and £18.4 on pants. If your apparel budget is nearing its limit, consider pausing further clothing purchases to stay within your budget.
+
+2. **Pattern Awareness**:
+   - Dining Out: There seems to be a trend of frequent small food expenses, such as breakfast and snack purchases. If dining out is causing a spike in your spending, consider reallocating a portion of this budget to savings or other priorities.
+
+3. **Alternative Options**:
+   - Subscription Services: You've spent £1.8308 on a Netflix subscription and incurred a data boost charge via your credit card. Consider reviewing these subscriptions to see if there are more economical plans or if all services are necessary.
+
+4. **General Suggestion**:
+   - Transfer-Outs and Investments: There are multiple transfer-outs for investment purposes, like small cap funds and mutual funds. Ensure these align with your financial goals and current liquidity needs.
+
+These insights aim to help you reflect on your spending habits and make informed decisions without feeling restricted. - chatbot - chat_with_bot
+2024-11-10 14:01:14,046 - websocket - INFO - Assistant: Based on the provided transaction data, here are some tailored financial insights and suggestions:
+
+1. **Budget Reminder**:
+   - Apparel Category: You have spent £368 and £460 on Nike shoes on 2024-10-19 and 2024-10-18, respectively, and £18.4 on pants. If your apparel budget is nearing its limit, consider pausing further clothing purchases to stay within your budget.
+
+2. **Pattern Awareness**:
+   - Dining Out: There seems to be a trend of frequent small food expenses, such as breakfast and snack purchases. If dining out is causing a spike in your spending, consider reallocating a portion of this budget to savings or other priorities.
+
+3. **Alternative Options**:
+   - Subscription Services: You've spent £1.8308 on a Netflix subscription and incurred a data boost charge via your credit card. Consider reviewing these subscriptions to see if there are more economical plans or if all services are necessary.
+
+4. **General Suggestion**:
+   - Transfer-Outs and Investments: There are multiple transfer-outs for investment purposes, like small cap funds and mutual funds. Ensure these align with your financial goals and current liquidity needs.
+
+These insights aim to help you reflect on your spending habits and make informed decisions without feeling restricted. - websocket - websocket_endpoint
+2024-11-10 14:01:24,673 - websocket - INFO - User message: [object HTMLInputElement] - websocket - websocket_endpoint
+2024-11-10 14:01:41,224 - chatbot - INFO - chat: User message: "You are an intelligent financial assistant embedded designed to support users in making mindful spending decisions. When users approach the checkout on e-commerce sites, you use behavioral insights to help them reflect on their current spending patterns. You should generate messages based on the following principles, using data like weekly/monthly budget limits, recent category-specific spending, and typical spending behaviors. Messages should be supportive, not restrictive, and framed to encourage reflection rather than enforce rules.
+
+Message Guidelines:
+Budget Reminders:
+
+If the user is near or at their budget limit for a category, remind them with an encouraging tone:
+“You have £50 left in your shopping budget this week. Consider holding off on this purchase to stay within your limit.”
+Pattern Awareness:
+
+For spikes in recent spending, provide gentle, context-based suggestions:
+“This week’s spending trend shows a spike in dining out. Could reallocating £30 from dining to savings help keep you on track?”
+Alternative Options:
+
+When applicable, suggest alternative actions to reduce current spending or redirect funds:
+“Your dining out expenses have been high lately. Would you like suggestions for affordable meal options to help save this month?”
+[object HTMLInputElement], Chatbot response: Based on the data provided, here are some personalized financial insights and suggestions:
+
+1. **Budget Reminder**: 
+   - You have made significant purchases in the Apparel category, specifically on Nike shoes, totaling £828 in October. If you have a specific budget for apparel, consider evaluating your remaining budget to ensure you stay within your limits for the rest of the month.
+
+2. **Pattern Awareness**: 
+   - There has been a noticeable spike in spending on subscriptions, including Netflix and mobile data services. Reflect on these monthly expenses and assess if they align with your current entertainment and connectivity needs.
+
+3. **Alternative Options**: 
+   - Given the high spending on dining out and subscriptions, you might want to explore affordable meal options at home or reevaluate any overlapping subscription services to optimize your spending this month.
+
+These insights aim to support you in making mindful and informed spending decisions. - chatbot - chat_with_bot
+2024-11-10 14:01:41,228 - websocket - INFO - Assistant: Based on the data provided, here are some personalized financial insights and suggestions:
+
+1. **Budget Reminder**: 
+   - You have made significant purchases in the Apparel category, specifically on Nike shoes, totaling £828 in October. If you have a specific budget for apparel, consider evaluating your remaining budget to ensure you stay within your limits for the rest of the month.
+
+2. **Pattern Awareness**: 
+   - There has been a noticeable spike in spending on subscriptions, including Netflix and mobile data services. Reflect on these monthly expenses and assess if they align with your current entertainment and connectivity needs.
+
+3. **Alternative Options**: 
+   - Given the high spending on dining out and subscriptions, you might want to explore affordable meal options at home or reevaluate any overlapping subscription services to optimize your spending this month.
+
+These insights aim to support you in making mindful and informed spending decisions. - websocket - websocket_endpoint
+2024-11-10 14:10:55,833 - websocket - INFO - Session 6730bc9a80617dba5611fff0 disconnected - websocket - websocket_endpoint
+2024-11-10 14:10:55,846 - websocket - INFO - Session 6730bcaa37f836b795216023 disconnected - websocket - websocket_endpoint
+2024-11-10 14:11:20,957 - websocket - INFO - User message: [object HTMLInputElement] - websocket - websocket_endpoint
+2024-11-10 14:11:33,928 - chatbot - INFO - chat: User message: "You are an intelligent financial assistant embedded designed to support users in making mindful spending decisions. When users approach the checkout on e-commerce sites, you use behavioral insights to help them reflect on their current spending patterns. You should generate messages based on the following principles, using data like weekly/monthly budget limits, recent category-specific spending, and typical spending behaviors. Messages should be supportive, not restrictive, and framed to encourage reflection rather than enforce rules.
+
+Message Guidelines:
+Budget Reminders:
+
+If the user is near or at their budget limit for a category, remind them with an encouraging tone:
+“You have £50 left in your shopping budget this week. Consider holding off on this purchase to stay within your limit.”
+Pattern Awareness:
+
+For spikes in recent spending, provide gentle, context-based suggestions:
+“This week’s spending trend shows a spike in dining out. Could reallocating £30 from dining to savings help keep you on track?”
+Alternative Options:
+
+When applicable, suggest alternative actions to reduce current spending or redirect funds:
+“Your dining out expenses have been high lately. Would you like suggestions for affordable meal options to help save this month?”
+[object HTMLInputElement], Chatbot response: Based on the transaction data provided, here are some personalized financial insights and suggestions:
+
+1. **Budget Reminders**:
+   - Apparel Spending: There have been significant purchases in apparel, specifically shoes and clothes. If your weekly budget is nearing its limit, consider waiting on additional apparel purchases to stay within your budget.
+
+2. **Pattern Awareness**:
+   - Dining and Grocery: There is a notable spike in spending on groceries and dining-related expenses. Perhaps reallocating a small portion of this budget to savings or other necessary categories might help maintain overall financial balance.
+
+3. **Alternative Options**:
+   - Subscription Services: With recurring expenses like Netflix and mobile service subscriptions, you might explore bundling options or alternative plans that could offer savings.
+   - Grocery Alternatives: Consider planning meals ahead to reduce impulsive grocery purchases, which can also help in reducing overall food expenses.
+
+These insights can guide you in making more mindful decisions and ensure you remain on track with your financial goals. If you need further suggestions or adjustments to your financial strategy, feel free to reach out. - chatbot - chat_with_bot
+2024-11-10 14:11:33,934 - websocket - INFO - Assistant: Based on the transaction data provided, here are some personalized financial insights and suggestions:
+
+1. **Budget Reminders**:
+   - Apparel Spending: There have been significant purchases in apparel, specifically shoes and clothes. If your weekly budget is nearing its limit, consider waiting on additional apparel purchases to stay within your budget.
+
+2. **Pattern Awareness**:
+   - Dining and Grocery: There is a notable spike in spending on groceries and dining-related expenses. Perhaps reallocating a small portion of this budget to savings or other necessary categories might help maintain overall financial balance.
+
+3. **Alternative Options**:
+   - Subscription Services: With recurring expenses like Netflix and mobile service subscriptions, you might explore bundling options or alternative plans that could offer savings.
+   - Grocery Alternatives: Consider planning meals ahead to reduce impulsive grocery purchases, which can also help in reducing overall food expenses.
+
+These insights can guide you in making more mindful decisions and ensure you remain on track with your financial goals. If you need further suggestions or adjustments to your financial strategy, feel free to reach out. - websocket - websocket_endpoint
+2024-11-10 14:14:39,800 - websocket - INFO - Session 6730bef137f836b795216065 disconnected - websocket - websocket_endpoint
+2024-11-10 14:14:39,815 - websocket - INFO - Session 6730bef337f836b795216066 disconnected - websocket - websocket_endpoint
+2024-11-10 14:14:40,775 - websocket - INFO - User message: {"message":"Hello from background.js"} - websocket - websocket_endpoint
+2024-11-10 14:14:53,455 - chatbot - INFO - chat: User message: "You are an intelligent financial assistant embedded designed to support users in making mindful spending decisions. When users approach the checkout on e-commerce sites, you use behavioral insights to help them reflect on their current spending patterns. You should generate messages based on the following principles, using data like weekly/monthly budget limits, recent category-specific spending, and typical spending behaviors. Messages should be supportive, not restrictive, and framed to encourage reflection rather than enforce rules.
+
+Message Guidelines:
+Budget Reminders:
+
+If the user is near or at their budget limit for a category, remind them with an encouraging tone:
+“You have £50 left in your shopping budget this week. Consider holding off on this purchase to stay within your limit.”
+Pattern Awareness:
+
+For spikes in recent spending, provide gentle, context-based suggestions:
+“This week’s spending trend shows a spike in dining out. Could reallocating £30 from dining to savings help keep you on track?”
+Alternative Options:
+
+When applicable, suggest alternative actions to reduce current spending or redirect funds:
+“Your dining out expenses have been high lately. Would you like suggestions for affordable meal options to help save this month?”
+{"message":"Hello from background.js"}, Chatbot response: Based on the transaction history provided, here are some supportive messages that can be generated:
+
+1. **Budget Reminder**: 
+   - "You've spent a significant amount on Nike shoes recently, totaling £828. Consider reviewing your apparel budget to ensure it aligns with your monthly goals."
+
+2. **Pattern Awareness**: 
+   - "Your spending on apparel, particularly shoes, has been quite high this month. Shifting some focus to savings could help balance your finances."
+
+3. **Alternative Options**: 
+   - "Would you like some tips on finding quality footwear at more affordable prices? This could help manage your apparel expenses this month."
+
+These messages are designed to gently prompt reflection and consideration of spending habits while providing actionable insights for better financial management. - chatbot - chat_with_bot
+2024-11-10 14:14:53,461 - websocket - INFO - Assistant: Based on the transaction history provided, here are some supportive messages that can be generated:
+
+1. **Budget Reminder**: 
+   - "You've spent a significant amount on Nike shoes recently, totaling £828. Consider reviewing your apparel budget to ensure it aligns with your monthly goals."
+
+2. **Pattern Awareness**: 
+   - "Your spending on apparel, particularly shoes, has been quite high this month. Shifting some focus to savings could help balance your finances."
+
+3. **Alternative Options**: 
+   - "Would you like some tips on finding quality footwear at more affordable prices? This could help manage your apparel expenses this month."
+
+These messages are designed to gently prompt reflection and consideration of spending habits while providing actionable insights for better financial management. - websocket - websocket_endpoint
+2024-11-10 14:15:33,303 - websocket - INFO - User message: [object HTMLInputElement] - websocket - websocket_endpoint
+2024-11-10 14:15:49,986 - chatbot - INFO - chat: User message: "You are an intelligent financial assistant embedded designed to support users in making mindful spending decisions. When users approach the checkout on e-commerce sites, you use behavioral insights to help them reflect on their current spending patterns. You should generate messages based on the following principles, using data like weekly/monthly budget limits, recent category-specific spending, and typical spending behaviors. Messages should be supportive, not restrictive, and framed to encourage reflection rather than enforce rules.
+
+Message Guidelines:
+Budget Reminders:
+
+If the user is near or at their budget limit for a category, remind them with an encouraging tone:
+“You have £50 left in your shopping budget this week. Consider holding off on this purchase to stay within your limit.”
+Pattern Awareness:
+
+For spikes in recent spending, provide gentle, context-based suggestions:
+“This week’s spending trend shows a spike in dining out. Could reallocating £30 from dining to savings help keep you on track?”
+Alternative Options:
+
+When applicable, suggest alternative actions to reduce current spending or redirect funds:
+“Your dining out expenses have been high lately. Would you like suggestions for affordable meal options to help save this month?”
+[object HTMLInputElement], Chatbot response: Based on your recent spending patterns and current budget, here are some insights and suggestions:
+
+1. **Budget Reminder**:
+   - You have spent a significant amount on apparel, with two purchases on Nike shoes totaling £828. Consider reviewing your apparel budget for this month to ensure you remain within your spending limits.
+
+2. **Pattern Awareness**:
+   - There seems to be an increase in your grocery expenses with frequent small purchases. It might be beneficial to plan for bulk purchases to potentially reduce costs over the month.
+
+3. **Alternative Options**:
+   - Your dining and grocery expenses have been frequent this month. Would you like some suggestions for budget-friendly meal planning or alternatives to help manage these expenses better?
+
+These recommendations are meant to help you make more mindful decisions about your spending and stay on track with your financial goals. - chatbot - chat_with_bot
+2024-11-10 14:15:49,991 - websocket - INFO - Assistant: Based on your recent spending patterns and current budget, here are some insights and suggestions:
+
+1. **Budget Reminder**:
+   - You have spent a significant amount on apparel, with two purchases on Nike shoes totaling £828. Consider reviewing your apparel budget for this month to ensure you remain within your spending limits.
+
+2. **Pattern Awareness**:
+   - There seems to be an increase in your grocery expenses with frequent small purchases. It might be beneficial to plan for bulk purchases to potentially reduce costs over the month.
+
+3. **Alternative Options**:
+   - Your dining and grocery expenses have been frequent this month. Would you like some suggestions for budget-friendly meal planning or alternatives to help manage these expenses better?
+
+These recommendations are meant to help you make more mindful decisions about your spending and stay on track with your financial goals. - websocket - websocket_endpoint
+2024-11-10 14:18:14,888 - websocket - INFO - Session 6730bfd145323c74afe9e9d4 disconnected - websocket - websocket_endpoint
+2024-11-10 14:18:14,901 - websocket - INFO - Session 6730bfde80617dba5612017f disconnected - websocket - websocket_endpoint
+2024-11-10 14:18:15,931 - websocket - INFO - User message: {"message":"Hello from background.js"} - websocket - websocket_endpoint
+2024-11-10 14:18:28,921 - chatbot - INFO - chat: User message: "You are an intelligent financial assistant embedded designed to support users in making mindful spending decisions. When users approach the checkout on e-commerce sites, you use behavioral insights to help them reflect on their current spending patterns. You should generate messages based on the following principles, using data like weekly/monthly budget limits, recent category-specific spending, and typical spending behaviors. Messages should be supportive, not restrictive, and framed to encourage reflection rather than enforce rules.
+
+Message Guidelines:
+Budget Reminders:
+
+If the user is near or at their budget limit for a category, remind them with an encouraging tone:
+“You have £50 left in your shopping budget this week. Consider holding off on this purchase to stay within your limit.”
+Pattern Awareness:
+
+For spikes in recent spending, provide gentle, context-based suggestions:
+“This week’s spending trend shows a spike in dining out. Could reallocating £30 from dining to savings help keep you on track?”
+Alternative Options:
+
+When applicable, suggest alternative actions to reduce current spending or redirect funds:
+“Your dining out expenses have been high lately. Would you like suggestions for affordable meal options to help save this month?”
+{"message":"Hello from background.js"}, Chatbot response: Based on the transaction data provided, here are some supportive and reflective messages for mindful spending:
+
+1. **Budget Reminder:**
+   - "You've recently spent £828 on Nike shoes across two transactions this month. If you have a budget set for apparel, consider reviewing it to make sure you're staying within your limits."
+
+2. **Pattern Awareness:**
+   - "This month shows several expenses in the 'Apparel' category, including high amounts on shoes and clothes. Would reviewing your spending in this category help in managing your overall budget?"
+
+3. **Alternative Options:**
+   - "Your recent spending on dining and groceries seems to be modest. If looking to balance your budget, perhaps exploring homemade meal options could help save a bit this month."
+
+These messages aim to provide a gentle reminder and encourage reflection on spending patterns, fostering better financial management without imposing restrictions. - chatbot - chat_with_bot
+2024-11-10 14:18:28,930 - websocket - INFO - Assistant: Based on the transaction data provided, here are some supportive and reflective messages for mindful spending:
+
+1. **Budget Reminder:**
+   - "You've recently spent £828 on Nike shoes across two transactions this month. If you have a budget set for apparel, consider reviewing it to make sure you're staying within your limits."
+
+2. **Pattern Awareness:**
+   - "This month shows several expenses in the 'Apparel' category, including high amounts on shoes and clothes. Would reviewing your spending in this category help in managing your overall budget?"
+
+3. **Alternative Options:**
+   - "Your recent spending on dining and groceries seems to be modest. If looking to balance your budget, perhaps exploring homemade meal options could help save a bit this month."
+
+These messages aim to provide a gentle reminder and encourage reflection on spending patterns, fostering better financial management without imposing restrictions. - websocket - websocket_endpoint
+2024-11-10 14:19:34,306 - websocket - INFO - User message: {"message":"Hello from background.js"} - websocket - websocket_endpoint
+2024-11-10 14:19:46,805 - chatbot - INFO - chat: User message: 
+{"message":"Hello from background.js"}, Chatbot response: Hello! It seems like you've shared a message from a JavaScript file, likely related to a browser extension or web application. The message "Hello from background.js" typically indicates that the background script of a browser extension is running and communicating as expected. Background scripts in web development are often used for handling events and maintaining data across the different parts of an extension. If you have any specific questions about browser extensions or JavaScript, feel free to ask! - chatbot - chat_with_bot
+2024-11-10 14:19:46,807 - websocket - INFO - Assistant: Hello! It seems like you've shared a message from a JavaScript file, likely related to a browser extension or web application. The message "Hello from background.js" typically indicates that the background script of a browser extension is running and communicating as expected. Background scripts in web development are often used for handling events and maintaining data across the different parts of an extension. If you have any specific questions about browser extensions or JavaScript, feel free to ask! - websocket - websocket_endpoint
+2024-11-10 14:20:32,180 - websocket - INFO - User message: [object HTMLInputElement] - websocket - websocket_endpoint
+2024-11-10 14:20:43,834 - chatbot - INFO - chat: User message: 
+[object HTMLInputElement], Chatbot response: It appears that the question contains an error or incomplete information, as "[object HTMLInputElement]" is typically a representation of an HTML element in JavaScript, not a question. If you have a specific question or need information about HTML input elements or another topic, please provide more details. - chatbot - chat_with_bot
+2024-11-10 14:20:43,837 - websocket - INFO - Assistant: It appears that the question contains an error or incomplete information, as "[object HTMLInputElement]" is typically a representation of an HTML element in JavaScript, not a question. If you have a specific question or need information about HTML input elements or another topic, please provide more details. - websocket - websocket_endpoint
