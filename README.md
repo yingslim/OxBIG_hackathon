@@ -12,6 +12,16 @@ We know that people can suddenly (sometimes chronically) get urges to buy things
   <img src="assets/compulsivespendinggraphic.jpg" />
 </p>
 
+To add as a chrome extension:
+- Download the latest release zip from the github page.
+- Unzip into a new folder and go to Chrome->Extensions->Enable Developer Mode
+- Press "Load Unpacked" and select the folder
+- You should now have it added!
+
+<p align="center">
+  <img src="assets/chrometutorial.jpg" />
+</p>
+
 # OnDemand API Utilization
 We used OD's agent marketplace to browse and select the most helpful finance-adjacent chatbots that users vouched for.
 
