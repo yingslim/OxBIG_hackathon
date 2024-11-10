@@ -35,8 +35,12 @@ We also lowered the temperature to 0.5 to minimise hallucinated purchases whilst
 
 # Members/Roles
 
+Ying Ying Lim
+- Software + Data Engineering
+- Fullstack Development and Merging Implementations
+
 Mingda Santos
-- Software Engineering, Project Lead
+- Software Engineering, Project Coordination
 
 Sheikh Mohiddin
 - UI/UX Design and Implementation
@@ -46,11 +50,6 @@ Francis Madden
 
 Xiaoyin (Connie) Li
 - Presentational materials
-
-Ying Ying Lim
-- Software + Data Engineering
-- Fullstack Development and Merging Implementations
-
 
 ## Backend Setup
 
