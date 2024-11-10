@@ -1,6 +1,4 @@
 # config/settings.py
-# Remember to replace the placeholder values with your own API credentials.
-
 from dotenv import load_dotenv
 import os
 
@@ -9,13 +7,25 @@ load_dotenv()
 
 # Access the environment variables
 API_KEY = os.getenv("API_KEY")
-
+CHROME_EXTENSION_ID = os.getenv("CHROME_EXTENSION_ID")
 # Headers for API requests
 headers = {
-    'accept': 'application/json',
-    'apikey': API_KEY,
-    'content-type': 'application/json'
+    "accept": "application/json",
+    "apikey": API_KEY,
+    "content-type": "application/json",
 }
+
+# Plugin IDs for integration
+PLUGGING_ID = [
+    "plugin-1731166483",  # transaction history
+    "plugin-1716119225",  # internet shopping plugins
+    # 'plugin-1716334779' # amazon shopping plugins (currently disabled - error: not subscribed)
+]
+
+
+HOSTNAME = "127.0.0.1"  # local host
+CHAT_PORT = '8001' # port number for chatbot fastapi
+WS_PORT = '8000' # port number for  WebSocket client 
 
 DEFAULT_SYSTEM_PROMPT = """"You are an intelligent financial assistant embedded designed to support users in making mindful spending decisions. When users approach the checkout on e-commerce sites, you use behavioral insights to help them reflect on their current spending patterns. You should generate messages based on the following principles, using data like weekly/monthly budget limits, recent category-specific spending, and typical spending behaviors. Messages should be supportive, not restrictive, and framed to encourage reflection rather than enforce rules.
 

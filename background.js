@@ -1,108 +1,58 @@
-chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
-    if (message.action === 'sendQuery') {
-      const query = message.query;
-      // Call the function to send the query to OnDemand API
-      sendQueryToOnDemand(query)
-        .then((answer) => {
-          sendResponse({ answer: answer });
-        })
-        .catch((error) => {
-          console.error(error);
-          sendResponse({ answer: 'Error: ' + error.message });
+// Establish the WebSocket connection
+const socket = new WebSocket("ws://127.0.0.1:8000/ws/chat");
+
+// Handle connection open event
+socket.onopen = function(event) {
+    console.log("WebSocket connection opened.");
+    // Send an initial message if needed
+    socket.send(JSON.stringify({ message: "Hello from background.js" }));
+};
+
+// Handle incoming messages
+socket.onmessage = function(event) {
+    const message = event.data;
+    console.log("Message from Chatbot:", message);
+    
+    // Example action based on the message received
+    if (message.includes("some_keyword")) {
+        // Perform an action, such as sending a notification to the user
+        chrome.notifications.create({
+            type: "basic",
+            iconUrl: "icon.png",
+            title: "New Message",
+            message: "You have a new interaction!"
         });
-      // Keep the message channel open for the asynchronous response
-      return true;
     }
-  });
-  
-  async function sendQueryToOnDemand(query) {
-    const apiKey = 'CCM0sjeIkawWGwYfyRCDlzCPl77GDNld'; // API Key
-    const sessionId = await getSessionId(apiKey);
-    if (!sessionId) {
-      throw new Error('Failed to create or retrieve session ID.');
-    }
-  
-    const url = `https://api.on-demand.io/chat/v1/sessions/${sessionId}/query`;
-    const payload = {
-      endpointId: 'predefined-openai-gpt4o',
-      query: query,
-      pluginIds: ['plugin-1731166483'],
-      responseMode: 'sync'
-    };
-  
-    const response = await fetch(url, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'apikey': apiKey
-      },
-      body: JSON.stringify(payload)
-    });
-  
-    if (!response.ok) {
-      throw new Error('Error submitting query: ' + response.statusText);
-    }
-  
-    const data = await response.json();
-  
-    if (data && data.data && data.data.answer) {
-      return data.data.answer;
+};
+
+// Handle WebSocket close
+socket.onclose = function(event) {
+    if (event.wasClean) {
+        console.log(`WebSocket closed cleanly, code=${event.code}`);
     } else {
-      throw new Error('No answer received from OnDemand API.');
+        console.error("WebSocket closed unexpectedly.");
     }
-  }
-  
-  async function getSessionId(apiKey) {
-    // Check if sessionId is stored
-    let sessionId = await getStoredSessionId();
-    if (sessionId) {
-      return sessionId;
-    }
-  
-    // Create a new session
-    const url = 'https://api.on-demand.io/chat/v1/sessions';
-    const payload = { externalUserId: 'chrome_extension_user' };
-  
-    const response = await fetch(url, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'apikey': apiKey
-      },
-      body: JSON.stringify(payload)
-    });
-  
-    if (!response.ok) {
-      console.error('Failed to create session:', response.statusText);
-      return null;
-    }
-  
-    const data = await response.json();
-  
-    if (data && data.data && data.data.id) {
-      sessionId = data.data.id;
-      // Store the sessionId for future use
-      await storeSessionId(sessionId);
-      return sessionId;
+};
+
+// Handle WebSocket errors
+socket.onerror = function(error) {
+    console.error("WebSocket error:", error);
+};
+
+// Function to send messages to FastAPI
+function sendMessageToFastAPI(message) {
+    if (socket.readyState === WebSocket.OPEN) {
+        socket.send(JSON.stringify({ message }));
     } else {
-      console.error('No session ID received:', data);
-      return null;
+        console.error("WebSocket is not open.");
     }
-  }
-  
-  function getStoredSessionId() {
-    return new Promise((resolve) => {
-      chrome.storage.local.get(['sessionId'], (result) => {
-        resolve(result.sessionId);
-      });
-    });
-  }
-  
-  function storeSessionId(sessionId) {
-    return new Promise((resolve) => {
-      chrome.storage.local.set({ sessionId: sessionId }, () => {
-        resolve();
-      });
-    });
 }
 
+// Listen for events from content scripts or other parts of the extension
+chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
+    if (request.type === "USER_INTERACTION") {
+        // Send the user interaction to FastAPI
+        sendMessageToFastAPI(request.message);
+        sendResponse({ status: "Message sent to Chatbot" });
+    }
+});
