@@ -49,6 +49,7 @@ Xiaoyin (Connie) Li
 
 Ying Ying Lim
 - Software + Data Engineering
+- Fullstack Development and Merging Implementations
 
 
 ## Backend Setup
