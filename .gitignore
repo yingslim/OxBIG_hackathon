@@ -22,3 +22,9 @@ node_modules/dotenv/README.md
 node_modules/dotenv/lib/env-options.js
 node_modules/dotenv/lib/main.d.ts
 node_modules/dotenv/lib/main.js
+__pycache__/app.cpython-310.pyc
+session/__pycache__/__init__.cpython-310.pyc
+session/__pycache__/chat.cpython-310.pyc
+session/__pycache__/models.cpython-310.pyc
+session/__pycache__/session.cpython-310.pyc
+session/__pycache__/chatbot.cpython-310.pyc
