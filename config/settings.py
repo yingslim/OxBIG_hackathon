@@ -7,7 +7,9 @@ load_dotenv()
 
 # Access the environment variables
 API_KEY = os.getenv("API_KEY")
-CHROME_EXTENSION_ID = os.getenv("CHROME_EXTENSION_ID")
+CHROME_EXTENSION_ID = 'chrome_extension_user'
+
+
 # Headers for API requests
 headers = {
     "accept": "application/json",

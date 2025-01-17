@@ -28,3 +28,5 @@ session/__pycache__/chat.cpython-310.pyc
 session/__pycache__/models.cpython-310.pyc
 session/__pycache__/session.cpython-310.pyc
 session/__pycache__/chatbot.cpython-310.pyc
+__pycache__/chatbot.cpython-310.pyc
+__pycache__/websocket.cpython-310.pyc

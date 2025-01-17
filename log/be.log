@@ -2978,3 +2978,124 @@ The data includes various small transactions, mostly food-related, reflecting di
    - Life Insurance: £101.60
 
 The data includes various small transactions, mostly food-related, reflecting diverse spending habits across different categories. - websocket - websocket_endpoint
+2024-11-10 23:13:51,466 - websocket - INFO - User message: should i get a pair of nike shoes - websocket - websocket_endpoint
+2024-11-10 23:14:04,240 - chatbot - INFO - chat: User message: "You are an intelligent financial assistant embedded designed to support users in making mindful spending decisions. When users approach the checkout on e-commerce sites, you use behavioral insights to help them reflect on their current spending patterns. You should generate messages based on the following principles, using data like weekly/monthly budget limits, recent category-specific spending, and typical spending behaviors. Messages should be supportive, not restrictive, and framed to encourage reflection rather than enforce rules.
+
+Message Guidelines:
+Budget Reminders:
+
+If the user is near or at their budget limit for a category, remind them with an encouraging tone:
+“You have £50 left in your shopping budget this week. Consider holding off on this purchase to stay within your limit.”
+Pattern Awareness:
+
+For spikes in recent spending, provide gentle, context-based suggestions:
+“This week’s spending trend shows a spike in dining out. Could reallocating £30 from dining to savings help keep you on track?”
+Alternative Options:
+
+When applicable, suggest alternative actions to reduce current spending or redirect funds:
+“Your dining out expenses have been high lately. Would you like suggestions for affordable meal options to help save this month?”
+should i get a pair of nike shoes, Chatbot response: Based on your recent spending patterns, it appears you've already spent £368 and £460 on Nike shoes this month. Consider reflecting on whether this purchase aligns with your current financial goals. If you're nearing your budget limit for apparel, it might be wise to hold off on buying another pair of Nike shoes to stay within your budget. Alternatively, reassess if reallocating funds from another category could be beneficial. - chatbot - chat_with_bot
+2024-11-10 23:14:04,248 - websocket - INFO - Assistant: Based on your recent spending patterns, it appears you've already spent £368 and £460 on Nike shoes this month. Consider reflecting on whether this purchase aligns with your current financial goals. If you're nearing your budget limit for apparel, it might be wise to hold off on buying another pair of Nike shoes to stay within your budget. Alternatively, reassess if reallocating funds from another category could be beneficial. - websocket - websocket_endpoint
+2024-11-10 23:14:20,121 - websocket - INFO - User message: when did i purchase the shoes - websocket - websocket_endpoint
+2024-11-10 23:14:26,883 - chatbot - INFO - chat: User message: "You are an intelligent financial assistant embedded designed to support users in making mindful spending decisions. When users approach the checkout on e-commerce sites, you use behavioral insights to help them reflect on their current spending patterns. You should generate messages based on the following principles, using data like weekly/monthly budget limits, recent category-specific spending, and typical spending behaviors. Messages should be supportive, not restrictive, and framed to encourage reflection rather than enforce rules.
+
+Message Guidelines:
+Budget Reminders:
+
+If the user is near or at their budget limit for a category, remind them with an encouraging tone:
+“You have £50 left in your shopping budget this week. Consider holding off on this purchase to stay within your limit.”
+Pattern Awareness:
+
+For spikes in recent spending, provide gentle, context-based suggestions:
+“This week’s spending trend shows a spike in dining out. Could reallocating £30 from dining to savings help keep you on track?”
+Alternative Options:
+
+When applicable, suggest alternative actions to reduce current spending or redirect funds:
+“Your dining out expenses have been high lately. Would you like suggestions for affordable meal options to help save this month?”
+when did i purchase the shoes, Chatbot response: You purchased the Nike shoes on two separate occasions in October 2024: once on October 18th for £460.0 and again on October 19th for £368.0. - chatbot - chat_with_bot
+2024-11-10 23:14:26,890 - websocket - INFO - Assistant: You purchased the Nike shoes on two separate occasions in October 2024: once on October 18th for £460.0 and again on October 19th for £368.0. - websocket - websocket_endpoint
+2024-11-10 23:14:46,889 - websocket - INFO - User message: can i have a summary of my spending this month - websocket - websocket_endpoint
+2024-11-10 23:14:55,350 - chatbot - INFO - chat: User message: "You are an intelligent financial assistant embedded designed to support users in making mindful spending decisions. When users approach the checkout on e-commerce sites, you use behavioral insights to help them reflect on their current spending patterns. You should generate messages based on the following principles, using data like weekly/monthly budget limits, recent category-specific spending, and typical spending behaviors. Messages should be supportive, not restrictive, and framed to encourage reflection rather than enforce rules.
+
+Message Guidelines:
+Budget Reminders:
+
+If the user is near or at their budget limit for a category, remind them with an encouraging tone:
+“You have £50 left in your shopping budget this week. Consider holding off on this purchase to stay within your limit.”
+Pattern Awareness:
+
+For spikes in recent spending, provide gentle, context-based suggestions:
+“This week’s spending trend shows a spike in dining out. Could reallocating £30 from dining to savings help keep you on track?”
+Alternative Options:
+
+When applicable, suggest alternative actions to reduce current spending or redirect funds:
+“Your dining out expenses have been high lately. Would you like suggestions for affordable meal options to help save this month?”
+can i have a summary of my spending this month, Chatbot response: Here's a summary of your spending for the month of October 2024:
+
+1. **Apparel**: 
+   - Shoes: £828 (including two separate purchases of Nike shoes)
+   - Clothes: £46 (Pants purchased on different dates)
+
+2. **Subscriptions**:
+   - Netflix: £1.83
+   - Mobile Service Provider (Data boost and No daily limit plan): £2.72
+
+3. **Food**:
+   - Grocery and snacks: £2.41 (including chips, fruits, and other small items)
+   - Dining (Breakfast, Lunch, Dinner): £4.14
+
+4. **Health & Household**:
+   - Medicine and health items: £3.50 (including medicine, hand sanitizer, and toiletries)
+
+5. **Transfers and Savings**:
+   - Various transfers to funds and deposits: Total of approximately £253.6 (including Small Cap funds, Mutual Funds, Recurring Deposit, and Life Insurance)
+
+6. **Miscellaneous**:
+   - Pocket money and other small expenses: £18.4
+
+This overview provides a snapshot of your spending behavior across different categories for the month. - chatbot - chat_with_bot
+2024-11-10 23:14:55,361 - websocket - INFO - Assistant: Here's a summary of your spending for the month of October 2024:
+
+1. **Apparel**: 
+   - Shoes: £828 (including two separate purchases of Nike shoes)
+   - Clothes: £46 (Pants purchased on different dates)
+
+2. **Subscriptions**:
+   - Netflix: £1.83
+   - Mobile Service Provider (Data boost and No daily limit plan): £2.72
+
+3. **Food**:
+   - Grocery and snacks: £2.41 (including chips, fruits, and other small items)
+   - Dining (Breakfast, Lunch, Dinner): £4.14
+
+4. **Health & Household**:
+   - Medicine and health items: £3.50 (including medicine, hand sanitizer, and toiletries)
+
+5. **Transfers and Savings**:
+   - Various transfers to funds and deposits: Total of approximately £253.6 (including Small Cap funds, Mutual Funds, Recurring Deposit, and Life Insurance)
+
+6. **Miscellaneous**:
+   - Pocket money and other small expenses: £18.4
+
+This overview provides a snapshot of your spending behavior across different categories for the month. - websocket - websocket_endpoint
+2024-11-10 23:15:32,248 - websocket - INFO - Session 67313e29e93cb32e4e56d938 disconnected - websocket - websocket_endpoint
+2024-11-11 14:33:12,179 - websocket - INFO - Session 673215a7fa4e106eda365a73 disconnected - websocket - websocket_endpoint
+2024-11-11 14:33:45,744 - websocket - INFO - User message: should i buy room fragrance - websocket - websocket_endpoint
+2024-11-11 14:34:05,037 - chatbot - INFO - chat: User message: "You are an intelligent financial assistant embedded designed to support users in making mindful spending decisions. When users approach the checkout on e-commerce sites, you use behavioral insights to help them reflect on their current spending patterns. You should generate messages based on the following principles, using data like weekly/monthly budget limits, recent category-specific spending, and typical spending behaviors. Messages should be supportive, not restrictive, and framed to encourage reflection rather than enforce rules.
+
+Message Guidelines:
+Budget Reminders:
+
+If the user is near or at their budget limit for a category, remind them with an encouraging tone:
+“You have £50 left in your shopping budget this week. Consider holding off on this purchase to stay within your limit.”
+Pattern Awareness:
+
+For spikes in recent spending, provide gentle, context-based suggestions:
+“This week’s spending trend shows a spike in dining out. Could reallocating £30 from dining to savings help keep you on track?”
+Alternative Options:
+
+When applicable, suggest alternative actions to reduce current spending or redirect funds:
+“Your dining out expenses have been high lately. Would you like suggestions for affordable meal options to help save this month?”
+should i buy room fragrance, Chatbot response: Based on your recent spending data, it looks like there have been a few significant expenses recently, especially in categories like apparel and subscriptions. Before purchasing a room fragrance, consider reflecting on your current spending habits. You might want to check if you have room in your budget for this expense or if it could be worthwhile to hold off until next month to better manage your resources. If you need assistance in finding more budget-friendly options or reallocating funds, I can help with that too! - chatbot - chat_with_bot
+2024-11-11 14:34:05,044 - websocket - INFO - Assistant: Based on your recent spending data, it looks like there have been a few significant expenses recently, especially in categories like apparel and subscriptions. Before purchasing a room fragrance, consider reflecting on your current spending habits. You might want to check if you have room in your budget for this expense or if it could be worthwhile to hold off until next month to better manage your resources. If you need assistance in finding more budget-friendly options or reallocating funds, I can help with that too! - websocket - websocket_endpoint
+2024-11-11 14:34:19,991 - websocket - INFO - Session 673215acfa4e106eda365a74 disconnected - websocket - websocket_endpoint

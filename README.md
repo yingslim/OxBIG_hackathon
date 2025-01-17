@@ -35,7 +35,7 @@ However, we ended up creating our own knowledge base agent which had integrated,
   <img src="assets/prompt.jpg" />
 </p>
  
-We also lowered the temperature to 0.5 to minimise hallucinated purchases whilst keeping the advice dynamic. All our settings could be saved as a named preset for easy access to it later on.
+
 
 <p align="center">
   <img src="assets/sidebar.png" />
@@ -84,11 +84,12 @@ Xiaoyin (Connie) Li
 Note: Run the backend servers before using it on chrome. 
 
 ## Final Product
-
+This product is designed to reduce impulsive shopping by providing behavioral insights based on individual user's past transaction history.
 <p align="center">
   <img src="assets\compulse_control_part1.png" alt="Compulse Control 1" width="45%" />
   <img src="assets\compulse_control_part2.png" alt="Compulse Control 2" width="45%" />
 </p>
+
 
 ## FAQs
 - If the extension cannot run due to a '__pycache__' error, please delete the pycache folder because it generates upon running for the first time.
